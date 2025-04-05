@@ -1,0 +1,14 @@
+setup.py
+dexhand_client/ClientData.py
+dexhand_client/ClientLogger.py
+dexhand_client/ClientService.py
+dexhand_client/DexHandClient.py
+dexhand_client/UDPMCManager.py
+dexhand_client/UDPManager.py
+dexhand_client/__init__.py
+dexhand_client.egg-info/PKG-INFO
+dexhand_client.egg-info/SOURCES.txt
+dexhand_client.egg-info/dependency_links.txt
+dexhand_client.egg-info/requires.txt
+dexhand_client.egg-info/top_level.txt
+dexhand_client/config/DexHandConfig.json

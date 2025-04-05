@@ -1,0 +1,16 @@
+2025-03-17 18:54:54,467-INFO-Client: Start DexHand client.
+2025-03-17 18:54:54,467-INFO-Client: Try to start DexHand server.
+2025-03-17 18:54:54,471-INFO-Server: Starting server...
+2025-03-17 18:54:54,471-INFO-Server: Started.
+2025-03-17 18:54:54,471-INFO-Client: Acquire DexHand control.
+2025-03-17 18:54:54,498-DEBUG-Hand: Hand is under control.
+2025-03-17 18:54:54,499-INFO-Client: Clear Hand error signal.
+2025-03-17 18:54:54,502-INFO-Hand: No need to clear error.
+2025-03-17 18:54:54,502-INFO-Client: exiting program.
+2025-03-17 18:54:54,508-INFO-Client: Halt DexHand.
+2025-03-17 18:54:54,517-WARNING-Server: Got emergency task Halt.
+2025-03-17 18:54:54,519-INFO-Hand: Halting DexHand...
+2025-03-17 18:54:54,535-INFO-Hand: DexHand has halted.
+2025-03-17 18:54:54,536-INFO-Hand: DexHand service is available again.
+2025-03-17 18:54:54,536-WARNING-Client: Release DexHand.
+2025-03-17 18:54:54,549-DEBUG-Hand: DexHand control access has been released.

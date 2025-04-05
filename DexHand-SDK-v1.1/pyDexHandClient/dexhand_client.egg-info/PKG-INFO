@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: dexhand_client
+Version: 1.0.6
+Summary: The Python API of DexHand, providing interfaces to control DexHand and read DexHand information.
+Author: Acorn Robotics
+Author-email: autorobotlab@126.com
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: numpy
+Requires-Dist: colorlog
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: summary

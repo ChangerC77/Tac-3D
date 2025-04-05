@@ -1,0 +1,192 @@
+{
+  "MainWindow":
+  {
+    "title": "MainWindow",
+    "width_pixel": 1280,
+    "height_pixel": 720,
+    "bg_extend": "res/main_window_extend.svg"
+  },
+  "Navigator":
+  {
+    "title": "Navigator",
+    "width_pixel_extend": 1080,
+    "width_pixel_contract": 1222,
+    "height_pixel": 65,
+    "bg_color": "#252525",
+    "highlight_color": "#000000"
+  },
+  "Graph":
+  {
+    "width_pixel": 505,
+    "height_pixel": 620,
+    "bg_color": "#000000"
+  },
+  "Plotter":
+  {
+    "width_pixel": 240,
+    "height_pixel": 190,
+    "display_range": 120,
+    "bg_color": "#101010",
+    "magnitude_color": "#FFFFFF",
+    "curve_color": "#3856FA",
+    "curve_width": 1.5,
+    "area_color": "#1B1F37",
+    "area_opacity": 0.5,
+    "grid_color": "#929292",
+    "grid_width": 0.5,
+    "grid_density_line": 2,
+    "grid_density_blank": 2,
+    "axis_tick_color": "#929292"
+  },
+  "Model":
+  {
+    "width_pixel": 520,
+    "height_pixel": 620,
+    "bg_color": "#000000",
+    "sn_text_color": "#BDBDBD",
+    "reminder_text_color": "#FFFFFF"
+  },
+  "Viewer":
+  {
+    "width_pixel": 520,
+    "height_pixel": 570,
+    "bg_color": "#101010",
+    "text_color": "#FFFFFF",
+    "viewpoint_widget_width": 330,
+    "viewpoint_widget_height": 50
+  },
+  "Vedo_plotter":
+  {
+    "width_pixel": 480,
+    "height_pixel": 480,
+    "bg_color": "#101010"
+  },
+  "Monitor":
+  {
+    "width_pixel": 1080,
+    "height_pixel": 655,
+    "bg_color": "#000000"
+  },
+  "Analyzer":
+  {
+    "width_pixel": 1080,
+    "height_pixel": 655,
+    "bg_color": "#000000"
+  },
+  "Icons":
+  {
+    "app_full": "res/app_full.svg",
+    "app_mini": "res/app_mini.svg",
+    "add_cfg_full": "res/add_cfg_full.svg",
+    "add_cfg_mini": "res/add_cfg_mini.svg",
+    "reminder": "res/reminder.svg",
+    "contract_inactive": "res/contract_inactive.svg",
+    "contract_active": "res/contract_active.svg",
+    "extend_inactive": "res/extend_inactive.svg",
+    "extend_active": "res/extend_active.svg",
+    "monitor_inactive": "res/monitor_inactive.svg",
+    "monitor_active": "res/monitor_active.svg",
+    "analyzer_inactive": "res/analyzer_inactive.svg",
+    "analyzer_active": "res/analyzer_active.svg",
+    "info_inactive": "res/info_inactive.svg",
+    "info_active": "res/info_active.svg",
+    "fold_inactive": "res/fold_inactive.svg",
+    "fold_active": "res/fold_active.svg",
+    "to_window_inactive": "res/to_window_inactive.svg",
+    "to_window_active": "res/to_window_active.svg",
+    "full_screen_inactive": "res/full_screen_inactive.svg",
+    "full_screen_active": "res/full_screen_active.svg",
+    "close_inactive": "res/close_inactive.svg",
+    "close_connector_inactive": "res/close_connector_inactive.svg",
+    "close_active": "res/close_active.svg",
+    "calibrate": "res/calibrate.svg",
+    "record_start": "res/record_start.svg",
+    "record_stop": "res/record_stop.svg",
+    "viewer_extend": "res/viewer_extend.svg",
+    "viewer_contract": "res/viewer_contract.svg",
+    "add_viewpoint": "res/add_viewpoint.svg",
+    "checkbox_active": "res/checkbox_active.svg",
+    "divider": "res/divider.svg",
+    "connecting": "res/connecting.svg",
+    "start": "res/start.svg",
+    "stop": "res/stop.svg",
+    "speed": "res/speed.svg",
+    "export": "res/export.svg",
+    "close_recording_inactive": "res/close_recording_inactive.svg",
+    "file": "res/file.svg",
+    "add_record": "res/add_record.svg",
+    "monitor_icon_v2": "res/monitor_icon_v2.svg",
+    "analyzer_icon_v2": "res/analyzer_icon_v2.svg",
+    "logo_icon_v2": "res/logo_icon_v2.svg",
+    "add_cfg_icon_v2": "res/add_cfg_icon_v2.svg",
+    "reminder_icon_v2": "res/reminder_icon_v2.svg",
+    "calibrate_icon_v2": "res/calibrate_icon_v2.svg",
+    "record_icon_v2": "res/record_icon_v2.svg",
+    "stop_icon_v2": "res/stop_icon_v2.svg",
+    "expand_icon_v2": "res/expand_icon_v2.svg",
+    "contract_icon_v2": "res/contract_icon_v2.svg",
+    "loading_icon_1": "res/loading_icon_1.svg",
+    "loading_icon_2": "res/loading_icon_2.svg",
+    "loading_icon_3": "res/loading_icon_3.svg",
+    "loading_icon_4": "res/loading_icon_4.svg",
+    "loading_icon_5": "res/loading_icon_5.svg",
+    "loading_icon_6": "res/loading_icon_6.svg",
+    "loading_icon_7": "res/loading_icon_7.svg",
+    "loading_icon_8": "res/loading_icon_8.svg",
+    "info_page": "res/info.png"
+  },
+  "SensorTab":
+  {
+    "off_style": "color: #929292; border: 2px solid #929292; border-radius: 10px",
+    "on_style": "color: white; border: 2px solid #939DD4; border-radius: 10px",
+    "display_style": "color: white; background-color:#939DD4; border-radius: 10px"
+  },
+  "SensorTabClickMenu":
+  {
+    "bg_color": "#151515",
+    "border_color": "#FFFFFF",
+    "border_radius": 20,
+    "text_color": "#D9D9D9"
+  },
+  "ViewpointTab":
+  {
+    "active_style":"color: #D9D9D9; border: 1px solid #D9D9D9; border-radius: 6px",
+    "inactive_style":"color: #D9D9D9; border: 1px solid #D9D9D9; border-radius: 6px"
+  },
+  "Text":
+  {
+    "light": "fonts/Alibaba_PuHuiTi_2.0_45_Light.ttf",
+    "regular": "fonts/Alibaba_PuHuiTi_2.0_55_thin.ttf",
+    "medium": "fonts/Alibaba_PuHuiTi_2.0_65_Medium.ttf"
+  },
+  "DisplacementForceSwitch":
+  {
+    "bg_color": "#151515",
+    "border_color": "#FFFFFF",
+    "border_radius": 20,
+    "text_color": "#D9D9D9"
+  },
+  "MessageBox":
+  {
+    "bg_color": "#2C2D35",
+    "title_color": "#FFFFFF",
+    "text_color": "#D9D9D9",
+    "cancel_button_bg_color": "#939DD4",
+    "confirm_button_bg_color": "#475CD0",
+    "button_text_color": "#FFFFFF"
+  },
+  "Connector":
+  {
+    "bg_color": "#2C2D35",
+    "title_color": "#FFFFFF",
+    "text_color": "#D9D9D9",
+    "cancel_button_bg_color": "#939DD4",
+    "confirm_button_bg_color": "#475CD0",
+    "button_text_color": "#FFFFFF"
+  },
+  "ComboBox":
+  {
+    "drop_down": "res/drop_down.svg",
+    "drop_up": "res/drop_up.svg"
+  }
+}

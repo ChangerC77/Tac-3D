@@ -1,0 +1,21 @@
+Parameters:
+  # Equivalent Young's modulus [MPa]
+  E: 0.26039999999999996
+  # Equivalent Poisson's ratio
+  P: 0.49
+
+Accuracy:
+  # The white noise of markers' position/displacement (standard deviation) [mm]
+  Np: [0.0, 0.0, 0.0]
+  # The white noise from measuring force at a single marker (standard deviation) [N]
+  Nf: [0.0, 0.0, 0.0]
+  # The white noise of the resultant force (standard deviation) [N]
+  Nfm: [0.0, 0.0, 0.0]
+  # The temperature drift for displacement/position measurement (after 5 minutes of preheating) [mm/min]
+  Dp: [0.0, 0.0, 0.0]
+  # The temperature drift for force at a single marker (after 5 minutes of preheating) [N/min]
+  Df: [0.0, 0.0, 0.0]
+  # The temperature drift for resultant force measurement (after 5 minutes of preheating) [N/min]
+  Dfm: [0.0, 0.0, 0.0]
+  # The relative error of resultant force [%]
+  Efm: [1.6368213740820214, 1.058135568399396, 4.158018665495]

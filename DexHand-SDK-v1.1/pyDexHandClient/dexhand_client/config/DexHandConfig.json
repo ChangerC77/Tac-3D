@@ -1,0 +1,28 @@
+{
+    "DexHandVersion": 2,
+    "DexHandSerialNumber": 20001,
+    "DexHandType": "Ultra",
+    "DexHandComponents": [
+        "HandControl",
+        "Tac3D",
+        "PosControl",
+        "ForceControl",
+        "InfoCallback"
+    ],
+    "HandInfoConfig": {
+        "auto_extract": true,
+        "InfoComponents": [
+            "Ego",
+            "Force",
+            "Imu",
+            "Contact"
+        ]
+    },
+    "Tac3DInfoConfig": {
+        "auto_extract": false,
+        "InfoComponents": [
+            "Basic",
+            "Contact"
+        ]
+    }
+}

@@ -1,0 +1,1719 @@
+2025-03-19 10:41:24,112-INFO-Client: Start DexHand client.
+2025-03-19 10:41:24,113-INFO-Client: Try to start DexHand server.
+2025-03-19 10:41:25,018-ERROR-Client: Timeout. DexHand Server may be not available.
+2025-03-19 10:41:25,115-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:41:25,115-INFO-Client: Acquire DexHand control.
+2025-03-19 10:41:26,115-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:41:33,973-INFO-Client: exiting program.
+2025-03-19 10:41:33,978-INFO-Client: Halt DexHand.
+2025-03-19 10:41:34,979-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:41:36,206-INFO-Client: exiting program.
+2025-03-19 10:41:38,944-INFO-Client: exiting program.
+2025-03-19 10:41:39,547-INFO-Client: exiting program.
+2025-03-19 10:41:40,047-INFO-Client: exiting program.
+2025-03-19 10:41:40,074-INFO-Client: exiting program.
+2025-03-19 10:41:40,105-INFO-Client: exiting program.
+2025-03-19 10:41:40,136-INFO-Client: exiting program.
+2025-03-19 10:41:40,166-INFO-Client: exiting program.
+2025-03-19 10:41:40,196-INFO-Client: exiting program.
+2025-03-19 10:41:40,227-INFO-Client: exiting program.
+2025-03-19 10:41:40,257-INFO-Client: exiting program.
+2025-03-19 10:41:40,287-INFO-Client: exiting program.
+2025-03-19 10:41:40,317-INFO-Client: exiting program.
+2025-03-19 10:41:40,348-INFO-Client: exiting program.
+2025-03-19 10:41:40,379-INFO-Client: exiting program.
+2025-03-19 10:41:40,409-INFO-Client: exiting program.
+2025-03-19 10:41:40,439-INFO-Client: exiting program.
+2025-03-19 10:41:40,470-INFO-Client: exiting program.
+2025-03-19 10:41:40,500-INFO-Client: exiting program.
+2025-03-19 10:41:40,530-INFO-Client: exiting program.
+2025-03-19 10:41:40,560-INFO-Client: exiting program.
+2025-03-19 10:41:40,593-INFO-Client: exiting program.
+2025-03-19 10:41:40,622-INFO-Client: exiting program.
+2025-03-19 10:41:40,651-INFO-Client: exiting program.
+2025-03-19 10:41:40,681-INFO-Client: exiting program.
+2025-03-19 10:41:40,711-INFO-Client: exiting program.
+2025-03-19 10:41:40,741-INFO-Client: exiting program.
+2025-03-19 10:41:40,772-INFO-Client: exiting program.
+2025-03-19 10:41:40,801-INFO-Client: exiting program.
+2025-03-19 10:41:40,832-INFO-Client: exiting program.
+2025-03-19 10:41:40,862-INFO-Client: exiting program.
+2025-03-19 10:41:40,892-INFO-Client: exiting program.
+2025-03-19 10:41:40,922-INFO-Client: exiting program.
+2025-03-19 10:41:57,939-INFO-Client: exiting program.
+2025-03-19 10:41:58,439-INFO-Client: exiting program.
+2025-03-19 10:41:58,472-INFO-Client: exiting program.
+2025-03-19 10:41:58,522-INFO-Client: exiting program.
+2025-03-19 10:41:58,556-INFO-Client: exiting program.
+2025-03-19 10:42:01,202-INFO-Client: exiting program.
+2025-03-19 10:42:01,702-INFO-Client: exiting program.
+2025-03-19 10:42:01,733-INFO-Client: exiting program.
+2025-03-19 10:42:01,762-INFO-Client: exiting program.
+2025-03-19 10:42:01,792-INFO-Client: exiting program.
+2025-03-19 10:42:01,822-INFO-Client: exiting program.
+2025-03-19 10:42:01,852-INFO-Client: exiting program.
+2025-03-19 10:42:01,885-INFO-Client: exiting program.
+2025-03-19 10:42:01,916-INFO-Client: exiting program.
+2025-03-19 10:42:01,946-INFO-Client: exiting program.
+2025-03-19 10:42:01,974-INFO-Client: exiting program.
+2025-03-19 10:42:02,004-INFO-Client: exiting program.
+2025-03-19 10:42:02,035-INFO-Client: exiting program.
+2025-03-19 10:42:02,065-INFO-Client: exiting program.
+2025-03-19 10:42:02,094-INFO-Client: exiting program.
+2025-03-19 10:42:02,125-INFO-Client: exiting program.
+2025-03-19 10:42:02,155-INFO-Client: exiting program.
+2025-03-19 10:42:02,858-INFO-Client: exiting program.
+2025-03-19 10:42:03,185-INFO-Client: exiting program.
+2025-03-19 10:42:03,686-INFO-Client: exiting program.
+2025-03-19 10:42:03,714-INFO-Client: exiting program.
+2025-03-19 10:42:07,516-INFO-Client: exiting program.
+2025-03-19 10:42:08,016-INFO-Client: exiting program.
+2025-03-19 10:42:08,253-INFO-Client: exiting program.
+2025-03-19 10:43:03,153-INFO-Client: exiting program.
+2025-03-19 10:43:06,019-INFO-Client: exiting program.
+2025-03-19 10:43:06,019-INFO-Client: exiting program.
+2025-03-19 10:44:50,090-INFO-Client: Start DexHand client.
+2025-03-19 10:44:50,091-CRITICAL-Client: FATAL ERROR OCCUR(OSError)
+2025-03-19 10:44:50,091-INFO-Client: exiting program.
+2025-03-19 10:44:50,091-INFO-Client: exiting program.
+2025-03-19 10:47:39,648-INFO-Client: Start DexHand client.
+2025-03-19 10:47:39,649-CRITICAL-Client: FATAL ERROR OCCUR(OSError)
+2025-03-19 10:47:39,649-INFO-Client: exiting program.
+2025-03-19 10:47:39,649-INFO-Client: exiting program.
+2025-03-19 10:50:00,719-INFO-Client: Start DexHand client.
+2025-03-19 10:50:00,720-INFO-Client: Try to start DexHand server.
+2025-03-19 10:50:01,625-ERROR-Client: Timeout. DexHand Server may be not available.
+2025-03-19 10:50:01,721-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:50:01,721-INFO-Client: Acquire DexHand control.
+2025-03-19 10:50:02,721-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:50:07,291-INFO-Client: exiting program.
+2025-03-19 10:50:07,297-INFO-Client: Halt DexHand.
+2025-03-19 10:50:08,298-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:50:10,429-INFO-Client: exiting program.
+2025-03-19 10:53:04,162-INFO-Client: exiting program.
+2025-03-19 10:53:04,662-INFO-Client: exiting program.
+2025-03-19 10:53:04,692-INFO-Client: exiting program.
+2025-03-19 10:53:04,720-INFO-Client: exiting program.
+2025-03-19 10:53:04,750-INFO-Client: exiting program.
+2025-03-19 10:53:04,780-INFO-Client: exiting program.
+2025-03-19 10:53:04,811-INFO-Client: exiting program.
+2025-03-19 10:53:04,840-INFO-Client: exiting program.
+2025-03-19 10:53:04,870-INFO-Client: exiting program.
+2025-03-19 10:53:04,900-INFO-Client: exiting program.
+2025-03-19 10:53:04,931-INFO-Client: exiting program.
+2025-03-19 10:53:04,961-INFO-Client: exiting program.
+2025-03-19 10:53:04,991-INFO-Client: exiting program.
+2025-03-19 10:53:05,021-INFO-Client: exiting program.
+2025-03-19 10:53:05,051-INFO-Client: exiting program.
+2025-03-19 10:53:05,081-INFO-Client: exiting program.
+2025-03-19 10:53:05,112-INFO-Client: exiting program.
+2025-03-19 10:53:05,142-INFO-Client: exiting program.
+2025-03-19 10:53:05,172-INFO-Client: exiting program.
+2025-03-19 10:53:05,202-INFO-Client: exiting program.
+2025-03-19 10:53:05,233-INFO-Client: exiting program.
+2025-03-19 10:53:05,263-INFO-Client: exiting program.
+2025-03-19 10:53:05,294-INFO-Client: exiting program.
+2025-03-19 10:53:05,324-INFO-Client: exiting program.
+2025-03-19 10:53:05,353-INFO-Client: exiting program.
+2025-03-19 10:53:07,129-INFO-Client: exiting program.
+2025-03-19 10:53:07,957-INFO-Client: exiting program.
+2025-03-19 10:53:09,040-INFO-Client: exiting program.
+2025-03-19 10:53:09,628-INFO-Client: exiting program.
+2025-03-19 10:53:10,121-INFO-Client: exiting program.
+2025-03-19 10:53:10,713-INFO-Client: exiting program.
+2025-03-19 10:55:20,793-INFO-Client: exiting program.
+2025-03-19 10:55:21,293-INFO-Client: exiting program.
+2025-03-19 10:55:21,323-INFO-Client: exiting program.
+2025-03-19 10:55:21,351-INFO-Client: exiting program.
+2025-03-19 10:55:21,381-INFO-Client: exiting program.
+2025-03-19 10:55:21,411-INFO-Client: exiting program.
+2025-03-19 10:55:21,441-INFO-Client: exiting program.
+2025-03-19 10:55:21,472-INFO-Client: exiting program.
+2025-03-19 10:55:21,502-INFO-Client: exiting program.
+2025-03-19 10:55:21,532-INFO-Client: exiting program.
+2025-03-19 10:55:21,563-INFO-Client: exiting program.
+2025-03-19 10:55:21,592-INFO-Client: exiting program.
+2025-03-19 10:55:22,139-INFO-Client: exiting program.
+2025-03-19 10:55:22,418-INFO-Client: exiting program.
+2025-03-19 10:55:22,919-INFO-Client: exiting program.
+2025-03-19 10:55:22,946-INFO-Client: exiting program.
+2025-03-19 10:55:22,976-INFO-Client: exiting program.
+2025-03-19 10:55:23,006-INFO-Client: exiting program.
+2025-03-19 10:55:23,036-INFO-Client: exiting program.
+2025-03-19 10:55:23,066-INFO-Client: exiting program.
+2025-03-19 10:55:23,883-INFO-Client: exiting program.
+2025-03-19 10:55:24,257-INFO-Client: exiting program.
+2025-03-19 10:55:24,428-INFO-Client: exiting program.
+2025-03-19 10:55:24,751-INFO-Client: exiting program.
+2025-03-19 10:55:25,252-INFO-Client: exiting program.
+2025-03-19 10:55:25,280-INFO-Client: exiting program.
+2025-03-19 10:55:25,309-INFO-Client: exiting program.
+2025-03-19 10:55:25,340-INFO-Client: exiting program.
+2025-03-19 10:55:25,371-INFO-Client: exiting program.
+2025-03-19 10:55:25,401-INFO-Client: exiting program.
+2025-03-19 10:55:25,431-INFO-Client: exiting program.
+2025-03-19 10:55:25,461-INFO-Client: exiting program.
+2025-03-19 10:55:25,974-INFO-Client: exiting program.
+2025-03-19 10:55:26,474-INFO-Client: exiting program.
+2025-03-19 10:55:26,504-INFO-Client: exiting program.
+2025-03-19 10:55:26,534-INFO-Client: exiting program.
+2025-03-19 10:55:26,563-INFO-Client: exiting program.
+2025-03-19 10:55:26,592-INFO-Client: exiting program.
+2025-03-19 10:55:26,623-INFO-Client: exiting program.
+2025-03-19 10:55:26,737-INFO-Client: exiting program.
+2025-03-19 10:55:28,366-INFO-Client: exiting program.
+2025-03-19 10:55:28,898-INFO-Client: exiting program.
+2025-03-19 10:55:29,091-INFO-Client: exiting program.
+2025-03-19 10:55:29,592-INFO-Client: exiting program.
+2025-03-19 10:55:29,622-INFO-Client: exiting program.
+2025-03-19 10:55:29,650-INFO-Client: exiting program.
+2025-03-19 10:55:29,680-INFO-Client: exiting program.
+2025-03-19 10:55:29,710-INFO-Client: exiting program.
+2025-03-19 10:55:29,741-INFO-Client: exiting program.
+2025-03-19 10:55:29,771-INFO-Client: exiting program.
+2025-03-19 10:55:29,802-INFO-Client: exiting program.
+2025-03-19 10:55:29,832-INFO-Client: exiting program.
+2025-03-19 10:55:29,862-INFO-Client: exiting program.
+2025-03-19 10:55:29,892-INFO-Client: exiting program.
+2025-03-19 10:55:29,922-INFO-Client: exiting program.
+2025-03-19 10:55:29,952-INFO-Client: exiting program.
+2025-03-19 10:55:29,983-INFO-Client: exiting program.
+2025-03-19 10:55:30,013-INFO-Client: exiting program.
+2025-03-19 10:55:30,044-INFO-Client: exiting program.
+2025-03-19 10:55:30,073-INFO-Client: exiting program.
+2025-03-19 10:55:30,103-INFO-Client: exiting program.
+2025-03-19 10:55:30,133-INFO-Client: exiting program.
+2025-03-19 10:55:30,163-INFO-Client: exiting program.
+2025-03-19 10:55:30,193-INFO-Client: exiting program.
+2025-03-19 10:55:30,224-INFO-Client: exiting program.
+2025-03-19 10:55:30,253-INFO-Client: exiting program.
+2025-03-19 10:55:30,284-INFO-Client: exiting program.
+2025-03-19 10:55:30,313-INFO-Client: exiting program.
+2025-03-19 10:55:30,344-INFO-Client: exiting program.
+2025-03-19 10:55:30,374-INFO-Client: exiting program.
+2025-03-19 10:55:30,405-INFO-Client: exiting program.
+2025-03-19 10:55:30,435-INFO-Client: exiting program.
+2025-03-19 10:55:30,465-INFO-Client: exiting program.
+2025-03-19 10:55:30,495-INFO-Client: exiting program.
+2025-03-19 10:55:30,525-INFO-Client: exiting program.
+2025-03-19 10:55:30,555-INFO-Client: exiting program.
+2025-03-19 10:55:30,585-INFO-Client: exiting program.
+2025-03-19 10:55:30,616-INFO-Client: exiting program.
+2025-03-19 10:55:30,646-INFO-Client: exiting program.
+2025-03-19 10:55:30,677-INFO-Client: exiting program.
+2025-03-19 10:55:30,708-INFO-Client: exiting program.
+2025-03-19 10:55:30,737-INFO-Client: exiting program.
+2025-03-19 10:55:30,768-INFO-Client: exiting program.
+2025-03-19 10:55:30,797-INFO-Client: exiting program.
+2025-03-19 10:55:30,827-INFO-Client: exiting program.
+2025-03-19 10:55:30,858-INFO-Client: exiting program.
+2025-03-19 10:55:30,887-INFO-Client: exiting program.
+2025-03-19 10:55:30,917-INFO-Client: exiting program.
+2025-03-19 10:55:30,948-INFO-Client: exiting program.
+2025-03-19 10:55:30,977-INFO-Client: exiting program.
+2025-03-19 10:55:31,008-INFO-Client: exiting program.
+2025-03-19 10:55:31,039-INFO-Client: exiting program.
+2025-03-19 10:55:31,070-INFO-Client: exiting program.
+2025-03-19 10:55:31,099-INFO-Client: exiting program.
+2025-03-19 10:55:31,129-INFO-Client: exiting program.
+2025-03-19 10:55:31,159-INFO-Client: exiting program.
+2025-03-19 10:55:31,192-INFO-Client: exiting program.
+2025-03-19 10:55:31,221-INFO-Client: exiting program.
+2025-03-19 10:55:31,252-INFO-Client: exiting program.
+2025-03-19 10:55:31,282-INFO-Client: exiting program.
+2025-03-19 10:55:31,313-INFO-Client: exiting program.
+2025-03-19 10:55:31,343-INFO-Client: exiting program.
+2025-03-19 10:55:31,372-INFO-Client: exiting program.
+2025-03-19 10:55:31,401-INFO-Client: exiting program.
+2025-03-19 10:55:31,431-INFO-Client: exiting program.
+2025-03-19 10:55:31,460-INFO-Client: exiting program.
+2025-03-19 10:55:31,491-INFO-Client: exiting program.
+2025-03-19 10:55:31,521-INFO-Client: exiting program.
+2025-03-19 10:55:31,551-INFO-Client: exiting program.
+2025-03-19 10:55:31,581-INFO-Client: exiting program.
+2025-03-19 10:55:31,614-INFO-Client: exiting program.
+2025-03-19 10:55:31,945-INFO-Client: exiting program.
+2025-03-19 10:55:32,446-INFO-Client: exiting program.
+2025-03-19 10:55:32,474-INFO-Client: exiting program.
+2025-03-19 10:55:32,504-INFO-Client: exiting program.
+2025-03-19 10:55:32,534-INFO-Client: exiting program.
+2025-03-19 10:55:32,563-INFO-Client: exiting program.
+2025-03-19 10:55:32,594-INFO-Client: exiting program.
+2025-03-19 10:55:32,624-INFO-Client: exiting program.
+2025-03-19 10:55:32,654-INFO-Client: exiting program.
+2025-03-19 10:55:32,685-INFO-Client: exiting program.
+2025-03-19 10:55:32,715-INFO-Client: exiting program.
+2025-03-19 10:55:32,745-INFO-Client: exiting program.
+2025-03-19 10:55:32,775-INFO-Client: exiting program.
+2025-03-19 10:55:32,805-INFO-Client: exiting program.
+2025-03-19 10:58:47,896-INFO-Client: exiting program.
+2025-03-19 10:58:48,124-INFO-Client: exiting program.
+2025-03-19 10:58:48,316-INFO-Client: exiting program.
+2025-03-19 10:58:48,487-INFO-Client: exiting program.
+2025-03-19 10:58:48,651-INFO-Client: exiting program.
+2025-03-19 10:58:48,823-INFO-Client: exiting program.
+2025-03-19 10:58:48,981-INFO-Client: exiting program.
+2025-03-19 10:58:49,135-INFO-Client: exiting program.
+2025-03-19 10:58:49,288-INFO-Client: exiting program.
+2025-03-19 10:58:49,508-INFO-Client: exiting program.
+2025-03-19 10:58:49,755-INFO-Client: exiting program.
+2025-03-19 10:59:12,231-INFO-Client: Start DexHand client.
+2025-03-19 10:59:12,231-INFO-Client: Try to start DexHand server.
+2025-03-19 10:59:13,137-ERROR-Client: Timeout. DexHand Server may be not available.
+2025-03-19 10:59:13,232-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:59:13,232-INFO-Client: Acquire DexHand control.
+2025-03-19 10:59:14,233-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:59:15,646-INFO-Client: exiting program.
+2025-03-19 10:59:15,651-INFO-Client: Halt DexHand.
+2025-03-19 10:59:15,876-INFO-Client: exiting program.
+2025-03-19 10:59:16,034-INFO-Client: exiting program.
+2025-03-19 10:59:16,216-INFO-Client: exiting program.
+2025-03-19 10:59:16,370-INFO-Client: exiting program.
+2025-03-19 10:59:16,653-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:59:24,564-INFO-Client: exiting program.
+2025-03-19 10:59:24,565-INFO-Client: exiting program.
+2025-03-19 10:59:27,075-INFO-Client: exiting program.
+2025-03-19 10:59:27,289-INFO-Client: exiting program.
+2025-03-19 10:59:34,898-INFO-Client: exiting program.
+2025-03-19 10:59:34,899-INFO-Client: exiting program.
+2025-03-19 10:59:46,248-INFO-Client: Start DexHand client.
+2025-03-19 10:59:46,249-INFO-Client: Try to start DexHand server.
+2025-03-19 10:59:47,154-ERROR-Client: Timeout. DexHand Server may be not available.
+2025-03-19 10:59:47,249-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:59:47,250-INFO-Client: exiting program.
+2025-03-19 10:59:54,865-INFO-Client: Start DexHand client.
+2025-03-19 10:59:54,866-INFO-Client: Try to start DexHand server.
+2025-03-19 10:59:55,771-ERROR-Client: Timeout. DexHand Server may be not available.
+2025-03-19 10:59:55,867-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:59:55,867-INFO-Client: Acquire DexHand control.
+2025-03-19 10:59:56,868-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 10:59:59,103-INFO-Client: exiting program.
+2025-03-19 10:59:59,109-INFO-Client: Halt DexHand.
+2025-03-19 10:59:59,328-INFO-Client: exiting program.
+2025-03-19 10:59:59,511-INFO-Client: exiting program.
+2025-03-19 10:59:59,687-INFO-Client: exiting program.
+2025-03-19 10:59:59,868-INFO-Client: exiting program.
+2025-03-19 11:00:00,055-INFO-Client: exiting program.
+2025-03-19 11:00:00,109-WARNING-Client: Timeout. The package may be lost.
+2025-03-19 11:00:50,092-INFO-Client: exiting program.
+2025-03-19 11:00:50,846-INFO-Client: exiting program.
+2025-03-19 11:00:51,348-INFO-Client: exiting program.
+2025-03-19 11:00:51,376-INFO-Client: exiting program.
+2025-03-19 11:00:51,406-INFO-Client: exiting program.
+2025-03-19 11:00:51,437-INFO-Client: exiting program.
+2025-03-19 11:00:51,467-INFO-Client: exiting program.
+2025-03-19 11:00:51,497-INFO-Client: exiting program.
+2025-03-19 11:00:51,527-INFO-Client: exiting program.
+2025-03-19 11:00:55,546-INFO-Client: exiting program.
+2025-03-19 11:00:55,547-INFO-Client: exiting program.
+2025-03-19 11:01:20,004-INFO-Client: Start DexHand client.
+2025-03-19 11:01:20,004-CRITICAL-Client: FATAL ERROR OCCUR(OSError)
+2025-03-19 11:01:20,004-INFO-Client: exiting program.
+2025-03-19 11:01:20,005-INFO-Client: exiting program.
+2025-03-19 11:05:04,318-INFO-Client: Start DexHand client.
+2025-03-19 11:05:04,319-INFO-Client: Try to start DexHand server.
+2025-03-19 11:05:04,324-INFO-Server: Starting server...
+2025-03-19 11:05:04,617-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 11:05:04,617-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 11:05:04,617-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 11:05:04,779-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.001/0.000
+2025-03-19 11:05:04,779-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.001/0.000
+2025-03-19 11:05:04,779-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.001/0.000
+2025-03-19 11:05:04,879-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-256.00 Force:-0.002/0.000
+2025-03-19 11:05:04,879-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-256.00 Force:-0.002/0.000
+2025-03-19 11:05:04,879-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-256.00 Force:-0.002/0.000
+2025-03-19 11:05:04,979-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:448.00 Force:-0.001/0.000
+2025-03-19 11:05:04,979-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:448.00 Force:-0.001/0.000
+2025-03-19 11:05:04,979-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:448.00 Force:-0.001/0.000
+2025-03-19 11:05:05,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.001/0.000
+2025-03-19 11:05:05,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.001/0.000
+2025-03-19 11:05:05,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.001/0.000
+2025-03-19 11:05:05,178-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.000/0.000
+2025-03-19 11:05:05,178-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.000/0.000
+2025-03-19 11:05:05,178-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.000/0.000
+2025-03-19 11:05:05,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.001/0.000
+2025-03-19 11:05:05,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.001/0.000
+2025-03-19 11:05:05,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.001/0.000
+2025-03-19 11:05:05,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:96.00 Force:0.000/0.000
+2025-03-19 11:05:05,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:96.00 Force:0.000/0.000
+2025-03-19 11:05:05,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:96.00 Force:0.000/0.000
+2025-03-19 11:05:05,478-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.000/0.000
+2025-03-19 11:05:05,478-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.000/0.000
+2025-03-19 11:05:05,478-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.000/0.000
+2025-03-19 11:05:05,579-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 11:05:05,579-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 11:05:05,579-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 11:05:05,679-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-240.00 Force:-0.002/0.000
+2025-03-19 11:05:05,679-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-240.00 Force:-0.002/0.000
+2025-03-19 11:05:05,679-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-240.00 Force:-0.002/0.000
+2025-03-19 11:05:05,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:160.00 Force:-0.001/0.000
+2025-03-19 11:05:05,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:160.00 Force:-0.001/0.000
+2025-03-19 11:05:05,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:160.00 Force:-0.001/0.000
+2025-03-19 11:05:05,878-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.001/0.000
+2025-03-19 11:05:05,878-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.001/0.000
+2025-03-19 11:05:05,878-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.001/0.000
+2025-03-19 11:05:05,978-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.002/0.000
+2025-03-19 11:05:05,978-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.002/0.000
+2025-03-19 11:05:05,978-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.002/0.000
+2025-03-19 11:05:06,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.003/0.000
+2025-03-19 11:05:06,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.003/0.000
+2025-03-19 11:05:06,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.003/0.000
+2025-03-19 11:05:06,178-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.001/0.000
+2025-03-19 11:05:06,178-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.001/0.000
+2025-03-19 11:05:06,178-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.001/0.000
+2025-03-19 11:05:06,277-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:06,277-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:06,277-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:06,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:16.00 Force:0.000/0.000
+2025-03-19 11:05:06,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:16.00 Force:0.000/0.000
+2025-03-19 11:05:06,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:16.00 Force:0.000/0.000
+2025-03-19 11:05:06,478-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:0.001/0.000
+2025-03-19 11:05:06,478-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:0.001/0.000
+2025-03-19 11:05:06,478-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:0.001/0.000
+2025-03-19 11:05:06,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.001/0.000
+2025-03-19 11:05:06,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.001/0.000
+2025-03-19 11:05:06,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.001/0.000
+2025-03-19 11:05:06,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.000/0.000
+2025-03-19 11:05:06,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.000/0.000
+2025-03-19 11:05:06,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.000/0.000
+2025-03-19 11:05:06,777-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.002/0.000
+2025-03-19 11:05:06,777-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.002/0.000
+2025-03-19 11:05:06,777-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.002/0.000
+2025-03-19 11:05:06,878-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 11:05:06,878-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 11:05:06,878-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 11:05:06,978-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:336.00 Force:-0.002/0.000
+2025-03-19 11:05:06,978-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:336.00 Force:-0.002/0.000
+2025-03-19 11:05:06,978-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:336.00 Force:-0.002/0.000
+2025-03-19 11:05:07,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.002/0.000
+2025-03-19 11:05:07,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.002/0.000
+2025-03-19 11:05:07,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.002/0.000
+2025-03-19 11:05:07,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.001/0.000
+2025-03-19 11:05:07,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.001/0.000
+2025-03-19 11:05:07,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.001/0.000
+2025-03-19 11:05:07,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.003/0.000
+2025-03-19 11:05:07,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.003/0.000
+2025-03-19 11:05:07,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.003/0.000
+2025-03-19 11:05:07,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 11:05:07,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 11:05:07,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 11:05:07,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 11:05:07,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 11:05:07,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 11:05:07,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-160.00 Force:-0.001/0.000
+2025-03-19 11:05:07,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-160.00 Force:-0.001/0.000
+2025-03-19 11:05:07,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-160.00 Force:-0.001/0.000
+2025-03-19 11:05:07,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:256.00 Force:-0.001/0.000
+2025-03-19 11:05:07,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:256.00 Force:-0.001/0.000
+2025-03-19 11:05:07,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:256.00 Force:-0.001/0.000
+2025-03-19 11:05:07,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:07,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:07,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:07,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:400.00 Force:-0.001/0.000
+2025-03-19 11:05:07,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:400.00 Force:-0.001/0.000
+2025-03-19 11:05:07,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:400.00 Force:-0.001/0.000
+2025-03-19 11:05:07,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 11:05:07,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 11:05:07,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 11:05:08,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.002/0.000
+2025-03-19 11:05:08,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.002/0.000
+2025-03-19 11:05:08,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.002/0.000
+2025-03-19 11:05:08,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 11:05:08,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 11:05:08,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 11:05:08,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 11:05:08,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 11:05:08,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 11:05:08,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.001/0.000
+2025-03-19 11:05:08,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.001/0.000
+2025-03-19 11:05:08,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.001/0.000
+2025-03-19 11:05:08,478-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 11:05:08,478-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 11:05:08,478-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 11:05:08,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.000/0.000
+2025-03-19 11:05:08,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.000/0.000
+2025-03-19 11:05:08,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.000/0.000
+2025-03-19 11:05:08,677-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:272.00 Force:-0.003/0.000
+2025-03-19 11:05:08,677-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:272.00 Force:-0.003/0.000
+2025-03-19 11:05:08,677-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:272.00 Force:-0.003/0.000
+2025-03-19 11:05:08,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.002/0.000
+2025-03-19 11:05:08,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.002/0.000
+2025-03-19 11:05:08,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.002/0.000
+2025-03-19 11:05:08,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-112.00 Force:-0.001/0.000
+2025-03-19 11:05:08,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-112.00 Force:-0.001/0.000
+2025-03-19 11:05:08,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-112.00 Force:-0.001/0.000
+2025-03-19 11:05:08,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:224.00 Force:-0.000/0.000
+2025-03-19 11:05:08,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:224.00 Force:-0.000/0.000
+2025-03-19 11:05:08,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:224.00 Force:-0.000/0.000
+2025-03-19 11:05:09,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:176.00 Force:-0.003/0.000
+2025-03-19 11:05:09,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:176.00 Force:-0.003/0.000
+2025-03-19 11:05:09,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:176.00 Force:-0.003/0.000
+2025-03-19 11:05:09,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.001/0.000
+2025-03-19 11:05:09,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.001/0.000
+2025-03-19 11:05:09,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.001/0.000
+2025-03-19 11:05:09,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.000/0.000
+2025-03-19 11:05:09,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.000/0.000
+2025-03-19 11:05:09,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.000/0.000
+2025-03-19 11:05:09,377-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 11:05:09,377-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 11:05:09,377-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 11:05:09,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:-0.001/0.000
+2025-03-19 11:05:09,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:-0.001/0.000
+2025-03-19 11:05:09,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:-0.001/0.000
+2025-03-19 11:05:09,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 11:05:09,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 11:05:09,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 11:05:09,677-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.002/0.000
+2025-03-19 11:05:09,677-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.002/0.000
+2025-03-19 11:05:09,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.002/0.000
+2025-03-19 11:05:09,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.000/0.000
+2025-03-19 11:05:09,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.000/0.000
+2025-03-19 11:05:09,778-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.000/0.000
+2025-03-19 11:05:09,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.003/0.000
+2025-03-19 11:05:09,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.003/0.000
+2025-03-19 11:05:09,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.003/0.000
+2025-03-19 11:05:09,979-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 11:05:09,979-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 11:05:09,984-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 11:05:10,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:384.00 Force:-0.003/0.000
+2025-03-19 11:05:10,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:384.00 Force:-0.003/0.000
+2025-03-19 11:05:10,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:384.00 Force:-0.003/0.000
+2025-03-19 11:05:10,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.004/0.000
+2025-03-19 11:05:10,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.004/0.000
+2025-03-19 11:05:10,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.004/0.000
+2025-03-19 11:05:10,277-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.000/0.000
+2025-03-19 11:05:10,277-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.000/0.000
+2025-03-19 11:05:10,277-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.000/0.000
+2025-03-19 11:05:10,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:10,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:10,378-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:10,479-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 11:05:10,479-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 11:05:10,479-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 11:05:10,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:288.00 Force:-0.002/0.000
+2025-03-19 11:05:10,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:288.00 Force:-0.002/0.000
+2025-03-19 11:05:10,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:288.00 Force:-0.002/0.000
+2025-03-19 11:05:10,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 11:05:10,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 11:05:10,678-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 11:05:10,777-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.003/0.000
+2025-03-19 11:05:10,777-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.003/0.000
+2025-03-19 11:05:10,777-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.003/0.000
+2025-03-19 11:05:10,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-288.00 Force:-0.000/0.000
+2025-03-19 11:05:10,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-288.00 Force:-0.000/0.000
+2025-03-19 11:05:10,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-288.00 Force:-0.000/0.000
+2025-03-19 11:05:10,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-160.00 Force:-0.002/0.000
+2025-03-19 11:05:10,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-160.00 Force:-0.002/0.000
+2025-03-19 11:05:10,982-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-160.00 Force:-0.002/0.000
+2025-03-19 11:05:11,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-112.00 Force:-0.003/0.000
+2025-03-19 11:05:11,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-112.00 Force:-0.003/0.000
+2025-03-19 11:05:11,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-112.00 Force:-0.003/0.000
+2025-03-19 11:05:11,180-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:11,180-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:11,182-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 11:05:11,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-192.00 Force:-0.000/0.000
+2025-03-19 11:05:11,278-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-192.00 Force:-0.000/0.000
+2025-03-19 11:05:11,283-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-192.00 Force:-0.000/0.000
+2025-03-19 11:05:11,377-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.003/0.000
+2025-03-19 11:05:11,377-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.003/0.000
+2025-03-19 11:05:11,380-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.003/0.000
+2025-03-19 11:05:11,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.000/0.000
+2025-03-19 11:05:11,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.000/0.000
+2025-03-19 11:05:11,482-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.000/0.000
+2025-03-19 11:05:11,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.002/0.000
+2025-03-19 11:05:11,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.002/0.000
+2025-03-19 11:05:11,578-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.002/0.000
+2025-03-19 11:05:11,677-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:240.00 Force:0.002/0.000
+2025-03-19 11:05:11,677-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:240.00 Force:0.002/0.000
+2025-03-19 11:05:11,682-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:240.00 Force:0.002/0.000
+2025-03-19 11:05:11,779-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-176.00 Force:-0.002/0.000
+2025-03-19 11:05:11,779-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-176.00 Force:-0.002/0.000
+2025-03-19 11:05:11,781-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-176.00 Force:-0.002/0.000
+2025-03-19 11:05:11,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.002/0.000
+2025-03-19 11:05:11,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.002/0.000
+2025-03-19 11:05:11,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.002/0.000
+2025-03-19 11:05:11,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:48.00 Force:0.000/0.000
+2025-03-19 11:05:11,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:48.00 Force:0.000/0.000
+2025-03-19 11:05:11,977-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:48.00 Force:0.000/0.000
+2025-03-19 11:05:12,077-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:-0.001/0.000
+2025-03-19 11:05:12,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:-0.001/0.000
+2025-03-19 11:05:12,078-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:-0.001/0.000
+2025-03-19 11:05:12,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.001/0.000
+2025-03-19 11:05:12,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.001/0.000
+2025-03-19 11:05:12,177-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.001/0.000
+2025-03-19 11:05:12,277-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.002/0.000
+2025-03-19 11:05:12,277-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.002/0.000
+2025-03-19 11:05:12,277-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.002/0.000
+2025-03-19 11:05:12,376-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.003/0.000
+2025-03-19 11:05:12,376-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.003/0.000
+2025-03-19 11:05:12,376-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.003/0.000
+2025-03-19 11:05:12,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 11:05:12,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 11:05:12,477-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 11:05:12,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.001/0.000
+2025-03-19 11:05:12,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.001/0.000
+2025-03-19 11:05:12,577-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.001/0.000
+2025-03-19 11:05:12,679-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.000/0.000
+2025-03-19 11:05:12,679-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.000/0.000
+2025-03-19 11:05:12,686-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.000/0.000
+2025-03-19 11:05:12,777-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.000/0.000
+2025-03-19 11:05:12,777-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.000/0.000
+2025-03-19 11:05:12,777-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.000/0.000
+2025-03-19 11:05:12,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.001/0.000
+2025-03-19 11:05:12,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.001/0.000
+2025-03-19 11:05:12,877-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.001/0.000
+2025-03-19 11:05:13,017-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.002/0.000
+2025-03-19 11:05:13,017-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.002/0.000
+2025-03-19 11:05:13,017-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.002/0.000
+2025-03-19 11:05:13,118-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-224.00 Force:-0.002/0.000
+2025-03-19 11:05:13,118-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-224.00 Force:-0.002/0.000
+2025-03-19 11:05:13,118-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-224.00 Force:-0.002/0.000
+2025-03-19 11:05:13,218-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.002/0.000
+2025-03-19 11:05:13,218-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.002/0.000
+2025-03-19 11:05:13,218-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.002/0.000
+2025-03-19 11:05:13,318-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-96.00 Force:0.001/0.000
+2025-03-19 11:05:13,318-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-96.00 Force:0.001/0.000
+2025-03-19 11:05:13,324-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-96.00 Force:0.001/0.000
+2025-03-19 11:05:13,419-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-256.00 Force:0.002/0.000
+2025-03-19 11:05:13,419-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-256.00 Force:0.002/0.000
+2025-03-19 11:05:13,424-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-256.00 Force:0.002/0.000
+2025-03-19 11:05:13,517-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 11:05:13,517-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 11:05:13,517-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 11:05:13,617-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 11:05:13,617-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 11:05:13,617-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 11:05:13,718-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.001/0.000
+2025-03-19 11:05:13,718-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.001/0.000
+2025-03-19 11:05:13,720-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.001/0.000
+2025-03-19 11:05:13,817-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:112.00 Force:0.000/0.000
+2025-03-19 11:05:13,817-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:112.00 Force:0.000/0.000
+2025-03-19 11:05:13,817-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:112.00 Force:0.000/0.000
+2025-03-19 11:05:13,921-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:-0.002/0.000
+2025-03-19 11:05:13,921-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:-0.002/0.000
+2025-03-19 11:05:13,921-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:-0.002/0.000
+2025-03-19 11:05:14,017-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 11:05:14,017-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 11:05:14,017-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 11:05:14,118-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-256.00 Force:-0.001/0.000
+2025-03-19 11:05:14,118-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-256.00 Force:-0.001/0.000
+2025-03-19 11:05:14,120-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-256.00 Force:-0.001/0.000
+2025-03-19 11:05:14,217-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.005/0.000
+2025-03-19 11:05:14,217-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.005/0.000
+2025-03-19 11:05:14,223-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.005/0.000
+2025-03-19 11:05:14,320-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.003/0.000
+2025-03-19 11:05:14,320-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.003/0.000
+2025-03-19 11:05:14,325-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.003/0.000
+2025-03-19 11:05:14,418-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-160.00 Force:0.001/0.000
+2025-03-19 11:05:14,418-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-160.00 Force:0.001/0.000
+2025-03-19 11:05:14,418-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-160.00 Force:0.001/0.000
+2025-03-19 11:05:14,520-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 11:05:14,520-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 11:05:14,527-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 11:05:14,617-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:96.00 Force:0.002/0.000
+2025-03-19 11:05:14,617-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:96.00 Force:0.002/0.000
+2025-03-19 11:05:14,617-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:96.00 Force:0.002/0.000
+2025-03-19 11:05:14,717-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 11:05:14,717-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 11:05:14,717-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 11:05:14,717-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 11:05:14,717-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 11:05:14,720-INFO-Server: Started.
+2025-03-19 11:05:14,720-INFO-Client: Acquire DexHand control.
+2025-03-19 11:05:14,720-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 11:05:14,736-DEBUG-Hand: Hand is under control.
+2025-03-19 11:05:14,757-INFO-Client: Set DexHand's position zeropoint.
+2025-03-19 11:05:14,760-INFO-Hand: Finding home position...
+2025-03-19 11:05:14,817-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-0.06/0.00 Speed:-2.15/-4.00, Current:-1904.00 Force:-0.004/0.000
+2025-03-19 11:05:14,817-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-0.06/0.00 Speed:-2.15/-4.00, Current:-1904.00 Force:-0.004/0.000
+2025-03-19 11:05:14,818-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-0.06/0.00 Speed:-2.15/-4.00, Current:-1904.00 Force:-0.004/0.000
+2025-03-19 11:05:14,917-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-0.24/0.00 Speed:-1.06/-4.00, Current:-4912.00 Force:-0.000/0.000
+2025-03-19 11:05:14,917-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-0.24/0.00 Speed:-1.06/-4.00, Current:-4912.00 Force:-0.000/0.000
+2025-03-19 11:05:14,921-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-0.24/0.00 Speed:-1.06/-4.00, Current:-4912.00 Force:-0.000/0.000
+2025-03-19 11:05:14,929-INFO-Hand: Home position is found.
+2025-03-19 11:05:14,930-INFO-Client: Calibrate DexHand force zeropoints.
+2025-03-19 11:05:14,931-INFO-Hand: Calibrating force zeropoints...
+2025-03-19 11:05:15,017-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:0.11/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.012/0.000
+2025-03-19 11:05:15,017-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:0.11/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.012/0.000
+2025-03-19 11:05:15,028-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:0.11/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.012/0.000
+2025-03-19 11:05:15,039-INFO-Hand: Force zeropoints are calibrated.
+2025-03-19 11:05:15,040-INFO-Client: exiting program.
+2025-03-19 11:05:15,045-INFO-Client: Halt DexHand.
+2025-03-19 11:05:15,056-WARNING-Server: Got emergency task Halt.
+2025-03-19 11:05:15,056-WARNING-Server: Got emergency task Halt.
+2025-03-19 11:05:15,061-WARNING-Server: Got emergency task Halt.
+2025-03-19 11:05:15,066-INFO-Hand: Halting DexHand...
+2025-03-19 11:05:15,079-INFO-Hand: DexHand has halted.
+2025-03-19 11:05:15,079-WARNING-Client: Release DexHand.
+2025-03-19 11:05:15,080-INFO-Hand: DexHand service is available again.
+2025-03-19 11:05:15,093-DEBUG-Hand: DexHand control access has been released.
+2025-03-19 11:52:44,895-INFO-Client: Start DexHand client.
+2025-03-19 11:52:44,896-INFO-Client: Try to start DexHand server.
+2025-03-19 11:52:44,902-INFO-Server: Starting server...
+2025-03-19 11:52:45,204-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 11:52:45,204-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 11:52:45,204-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 11:52:45,262-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.022/0.000
+2025-03-19 11:52:45,262-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.022/0.000
+2025-03-19 11:52:45,330-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:45,360-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:45,360-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:45,429-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-384.00 Force:0.023/0.000
+2025-03-19 11:52:45,460-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.022/0.000
+2025-03-19 11:52:45,460-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.022/0.000
+2025-03-19 11:52:45,530-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-256.00 Force:0.024/0.000
+2025-03-19 11:52:45,560-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:45,560-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:45,630-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:208.00 Force:0.023/0.000
+2025-03-19 11:52:45,660-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.023/0.000
+2025-03-19 11:52:45,660-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.023/0.000
+2025-03-19 11:52:45,731-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:45,759-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:144.00 Force:0.024/0.000
+2025-03-19 11:52:45,759-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:144.00 Force:0.024/0.000
+2025-03-19 11:52:45,829-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.024/0.000
+2025-03-19 11:52:45,860-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.024/0.000
+2025-03-19 11:52:45,860-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.024/0.000
+2025-03-19 11:52:45,930-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-384.00 Force:0.021/0.000
+2025-03-19 11:52:45,960-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:160.00 Force:0.024/0.000
+2025-03-19 11:52:45,960-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:160.00 Force:0.024/0.000
+2025-03-19 11:52:46,031-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.023/0.000
+2025-03-19 11:52:46,061-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:160.00 Force:0.024/0.000
+2025-03-19 11:52:46,061-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:160.00 Force:0.024/0.000
+2025-03-19 11:52:46,130-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.022/0.000
+2025-03-19 11:52:46,160-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:240.00 Force:0.022/0.000
+2025-03-19 11:52:46,160-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:240.00 Force:0.022/0.000
+2025-03-19 11:52:46,229-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.022/0.000
+2025-03-19 11:52:46,260-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.023/0.000
+2025-03-19 11:52:46,260-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.023/0.000
+2025-03-19 11:52:46,329-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.025/0.000
+2025-03-19 11:52:46,360-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.021/0.000
+2025-03-19 11:52:46,360-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.021/0.000
+2025-03-19 11:52:46,499-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-144.00 Force:0.024/0.000
+2025-03-19 11:52:46,530-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.024/0.000
+2025-03-19 11:52:46,530-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.024/0.000
+2025-03-19 11:52:46,599-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:64.00 Force:0.023/0.000
+2025-03-19 11:52:46,629-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:46,629-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:46,699-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:160.00 Force:0.024/0.000
+2025-03-19 11:52:46,728-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.022/0.000
+2025-03-19 11:52:46,728-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.022/0.000
+2025-03-19 11:52:46,799-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.025/0.000
+2025-03-19 11:52:46,829-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:96.00 Force:0.026/0.000
+2025-03-19 11:52:46,829-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:96.00 Force:0.026/0.000
+2025-03-19 11:52:46,899-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.022/0.000
+2025-03-19 11:52:46,928-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.021/0.000
+2025-03-19 11:52:46,928-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.021/0.000
+2025-03-19 11:52:46,998-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.024/0.000
+2025-03-19 11:52:47,029-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.021/0.000
+2025-03-19 11:52:47,029-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.021/0.000
+2025-03-19 11:52:47,099-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.022/0.000
+2025-03-19 11:52:47,128-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:47,128-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:47,199-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.024/0.000
+2025-03-19 11:52:47,228-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:160.00 Force:0.022/0.000
+2025-03-19 11:52:47,228-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:160.00 Force:0.022/0.000
+2025-03-19 11:52:47,299-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:208.00 Force:0.022/0.000
+2025-03-19 11:52:47,329-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-448.00 Force:0.024/0.000
+2025-03-19 11:52:47,329-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-448.00 Force:0.024/0.000
+2025-03-19 11:52:47,400-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.022/0.000
+2025-03-19 11:52:47,429-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-432.00 Force:0.021/0.000
+2025-03-19 11:52:47,429-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-432.00 Force:0.021/0.000
+2025-03-19 11:52:47,499-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.023/0.000
+2025-03-19 11:52:47,529-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.022/0.000
+2025-03-19 11:52:47,529-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.022/0.000
+2025-03-19 11:52:47,599-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-144.00 Force:0.021/0.000
+2025-03-19 11:52:47,629-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.024/0.000
+2025-03-19 11:52:47,629-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.024/0.000
+2025-03-19 11:52:47,700-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.022/0.000
+2025-03-19 11:52:47,730-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:128.00 Force:0.023/0.000
+2025-03-19 11:52:47,730-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:128.00 Force:0.023/0.000
+2025-03-19 11:52:47,800-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-400.00 Force:0.024/0.000
+2025-03-19 11:52:47,829-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:64.00 Force:0.022/0.000
+2025-03-19 11:52:47,829-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:64.00 Force:0.022/0.000
+2025-03-19 11:52:47,900-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-400.00 Force:0.020/0.000
+2025-03-19 11:52:47,928-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.023/0.000
+2025-03-19 11:52:47,928-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.023/0.000
+2025-03-19 11:52:48,000-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.024/0.000
+2025-03-19 11:52:48,028-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.024/0.000
+2025-03-19 11:52:48,028-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.024/0.000
+2025-03-19 11:52:48,098-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.025/0.000
+2025-03-19 11:52:48,129-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.023/0.000
+2025-03-19 11:52:48,129-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.023/0.000
+2025-03-19 11:52:48,199-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:48,230-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:64.00 Force:0.023/0.000
+2025-03-19 11:52:48,230-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:64.00 Force:0.023/0.000
+2025-03-19 11:52:48,300-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:64.00 Force:0.023/0.000
+2025-03-19 11:52:48,329-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.024/0.000
+2025-03-19 11:52:48,329-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.024/0.000
+2025-03-19 11:52:48,399-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.023/0.000
+2025-03-19 11:52:48,429-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-512.00 Force:0.024/0.000
+2025-03-19 11:52:48,429-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-512.00 Force:0.024/0.000
+2025-03-19 11:52:48,499-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.023/0.000
+2025-03-19 11:52:48,529-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.024/0.000
+2025-03-19 11:52:48,529-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.024/0.000
+2025-03-19 11:52:48,598-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.025/0.000
+2025-03-19 11:52:48,628-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:48,628-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:48,699-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.024/0.000
+2025-03-19 11:52:48,729-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.022/0.000
+2025-03-19 11:52:48,729-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.022/0.000
+2025-03-19 11:52:48,799-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.024/0.000
+2025-03-19 11:52:48,830-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.023/0.000
+2025-03-19 11:52:48,830-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.023/0.000
+2025-03-19 11:52:48,900-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.022/0.000
+2025-03-19 11:52:48,930-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.021/0.000
+2025-03-19 11:52:48,930-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.021/0.000
+2025-03-19 11:52:48,999-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.022/0.000
+2025-03-19 11:52:49,029-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:49,029-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:49,118-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.022/0.000
+2025-03-19 11:52:49,149-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.022/0.000
+2025-03-19 11:52:49,149-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.022/0.000
+2025-03-19 11:52:49,254-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:49,280-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.024/0.000
+2025-03-19 11:52:49,280-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.024/0.000
+2025-03-19 11:52:49,349-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:49,379-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.024/0.000
+2025-03-19 11:52:49,379-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.024/0.000
+2025-03-19 11:52:49,448-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.025/0.000
+2025-03-19 11:52:49,478-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.024/0.000
+2025-03-19 11:52:49,478-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.024/0.000
+2025-03-19 11:52:49,548-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.022/0.000
+2025-03-19 11:52:49,579-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:128.00 Force:0.024/0.000
+2025-03-19 11:52:49,579-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:128.00 Force:0.024/0.000
+2025-03-19 11:52:49,659-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:49,681-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.023/0.000
+2025-03-19 11:52:49,681-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.023/0.000
+2025-03-19 11:52:49,750-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:240.00 Force:0.024/0.000
+2025-03-19 11:52:49,780-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:96.00 Force:0.023/0.000
+2025-03-19 11:52:49,780-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:96.00 Force:0.023/0.000
+2025-03-19 11:52:49,850-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:49,880-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.023/0.000
+2025-03-19 11:52:49,880-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.023/0.000
+2025-03-19 11:52:49,949-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.022/0.000
+2025-03-19 11:52:49,978-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.022/0.000
+2025-03-19 11:52:49,978-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.022/0.000
+2025-03-19 11:52:50,049-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:224.00 Force:0.025/0.000
+2025-03-19 11:52:50,081-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.024/0.000
+2025-03-19 11:52:50,081-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.024/0.000
+2025-03-19 11:52:50,151-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.023/0.000
+2025-03-19 11:52:50,181-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:256.00 Force:0.017/0.000
+2025-03-19 11:52:50,181-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:256.00 Force:0.017/0.000
+2025-03-19 11:52:50,248-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-128.00 Force:0.023/0.000
+2025-03-19 11:52:50,289-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:144.00 Force:0.023/0.000
+2025-03-19 11:52:50,289-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:144.00 Force:0.023/0.000
+2025-03-19 11:52:50,359-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.022/0.000
+2025-03-19 11:52:50,389-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-176.00 Force:0.024/0.000
+2025-03-19 11:52:50,389-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-176.00 Force:0.024/0.000
+2025-03-19 11:52:50,460-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.022/0.000
+2025-03-19 11:52:50,489-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:50,489-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:50,559-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.025/0.000
+2025-03-19 11:52:50,588-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.024/0.000
+2025-03-19 11:52:50,588-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.024/0.000
+2025-03-19 11:52:50,659-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:160.00 Force:0.024/0.000
+2025-03-19 11:52:50,689-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.022/0.000
+2025-03-19 11:52:50,689-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.022/0.000
+2025-03-19 11:52:50,765-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.024/0.000
+2025-03-19 11:52:50,789-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-144.00 Force:0.023/0.000
+2025-03-19 11:52:50,789-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-144.00 Force:0.023/0.000
+2025-03-19 11:52:50,860-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:160.00 Force:0.024/0.000
+2025-03-19 11:52:50,889-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.022/0.000
+2025-03-19 11:52:50,889-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.022/0.000
+2025-03-19 11:52:50,960-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.023/0.000
+2025-03-19 11:52:50,990-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.022/0.000
+2025-03-19 11:52:50,990-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.022/0.000
+2025-03-19 11:52:51,060-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.023/0.000
+2025-03-19 11:52:51,090-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.023/0.000
+2025-03-19 11:52:51,090-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.023/0.000
+2025-03-19 11:52:51,158-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.021/0.000
+2025-03-19 11:52:51,190-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:224.00 Force:0.020/0.000
+2025-03-19 11:52:51,190-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:224.00 Force:0.020/0.000
+2025-03-19 11:52:51,258-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.021/0.000
+2025-03-19 11:52:51,289-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.019/0.000
+2025-03-19 11:52:51,289-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.019/0.000
+2025-03-19 11:52:51,359-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-192.00 Force:0.025/0.000
+2025-03-19 11:52:51,389-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-224.00 Force:0.024/0.000
+2025-03-19 11:52:51,389-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-224.00 Force:0.024/0.000
+2025-03-19 11:52:51,459-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.023/0.000
+2025-03-19 11:52:51,489-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.017/0.000
+2025-03-19 11:52:51,489-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.017/0.000
+2025-03-19 11:52:51,559-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.024/0.000
+2025-03-19 11:52:51,590-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.021/0.000
+2025-03-19 11:52:51,590-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.021/0.000
+2025-03-19 11:52:51,659-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.023/0.000
+2025-03-19 11:52:51,689-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.025/0.000
+2025-03-19 11:52:51,690-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.025/0.000
+2025-03-19 11:52:51,764-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-336.00 Force:0.024/0.000
+2025-03-19 11:52:51,790-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-192.00 Force:0.024/0.000
+2025-03-19 11:52:51,790-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-192.00 Force:0.024/0.000
+2025-03-19 11:52:51,867-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:208.00 Force:0.024/0.000
+2025-03-19 11:52:51,889-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.024/0.000
+2025-03-19 11:52:51,889-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.024/0.000
+2025-03-19 11:52:51,958-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.021/0.000
+2025-03-19 11:52:51,989-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.022/0.000
+2025-03-19 11:52:51,989-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.022/0.000
+2025-03-19 11:52:52,059-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.025/0.000
+2025-03-19 11:52:52,089-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.025/0.000
+2025-03-19 11:52:52,089-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.025/0.000
+2025-03-19 11:52:52,159-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.023/0.000
+2025-03-19 11:52:52,190-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.024/0.000
+2025-03-19 11:52:52,190-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.024/0.000
+2025-03-19 11:52:52,259-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.019/0.000
+2025-03-19 11:52:52,288-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.021/0.000
+2025-03-19 11:52:52,288-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.021/0.000
+2025-03-19 11:52:52,360-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-144.00 Force:0.023/0.000
+2025-03-19 11:52:52,389-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.019/0.000
+2025-03-19 11:52:52,389-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.019/0.000
+2025-03-19 11:52:52,459-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-544.00 Force:0.025/0.000
+2025-03-19 11:52:52,488-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-160.00 Force:0.022/0.000
+2025-03-19 11:52:52,488-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-160.00 Force:0.022/0.000
+2025-03-19 11:52:52,560-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.023/0.000
+2025-03-19 11:52:52,588-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.026/0.000
+2025-03-19 11:52:52,588-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.026/0.000
+2025-03-19 11:52:52,664-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:224.00 Force:0.021/0.000
+2025-03-19 11:52:52,691-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:208.00 Force:0.020/0.000
+2025-03-19 11:52:52,691-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:208.00 Force:0.020/0.000
+2025-03-19 11:52:52,759-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.021/0.000
+2025-03-19 11:52:52,789-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.019/0.000
+2025-03-19 11:52:52,789-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.019/0.000
+2025-03-19 11:52:52,859-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.022/0.000
+2025-03-19 11:52:52,889-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.024/0.000
+2025-03-19 11:52:52,889-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.024/0.000
+2025-03-19 11:52:52,966-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:64.00 Force:0.018/0.000
+2025-03-19 11:52:52,988-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-240.00 Force:0.022/0.000
+2025-03-19 11:52:52,988-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-240.00 Force:0.022/0.000
+2025-03-19 11:52:53,060-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-144.00 Force:0.023/0.000
+2025-03-19 11:52:53,089-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.024/0.000
+2025-03-19 11:52:53,089-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.024/0.000
+2025-03-19 11:52:53,159-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.027/0.000
+2025-03-19 11:52:53,189-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-96.00 Force:0.024/0.000
+2025-03-19 11:52:53,189-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-96.00 Force:0.024/0.000
+2025-03-19 11:52:53,262-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:256.00 Force:0.026/0.000
+2025-03-19 11:52:53,290-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:224.00 Force:0.022/0.000
+2025-03-19 11:52:53,290-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:224.00 Force:0.022/0.000
+2025-03-19 11:52:53,360-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-224.00 Force:0.028/0.000
+2025-03-19 11:52:53,389-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.025/0.000
+2025-03-19 11:52:53,389-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.025/0.000
+2025-03-19 11:52:53,458-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.025/0.000
+2025-03-19 11:52:53,489-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:96.00 Force:0.023/0.000
+2025-03-19 11:52:53,489-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:96.00 Force:0.023/0.000
+2025-03-19 11:52:53,559-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:64.00 Force:0.023/0.000
+2025-03-19 11:52:53,589-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.022/0.000
+2025-03-19 11:52:53,589-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.022/0.000
+2025-03-19 11:52:53,659-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-496.00 Force:0.023/0.000
+2025-03-19 11:52:53,690-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.022/0.000
+2025-03-19 11:52:53,690-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.022/0.000
+2025-03-19 11:52:53,759-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.023/0.000
+2025-03-19 11:52:53,790-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.023/0.000
+2025-03-19 11:52:53,790-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:32.00 Force:0.023/0.000
+2025-03-19 11:52:53,863-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.024/0.000
+2025-03-19 11:52:53,891-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:53,891-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:53,960-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:48.00 Force:0.020/0.000
+2025-03-19 11:52:53,989-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-240.00 Force:0.024/0.000
+2025-03-19 11:52:53,989-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-240.00 Force:0.024/0.000
+2025-03-19 11:52:54,060-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.023/0.000
+2025-03-19 11:52:54,093-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.022/0.000
+2025-03-19 11:52:54,093-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.022/0.000
+2025-03-19 11:52:54,159-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.025/0.000
+2025-03-19 11:52:54,190-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-368.00 Force:0.022/0.000
+2025-03-19 11:52:54,190-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-368.00 Force:0.022/0.000
+2025-03-19 11:52:54,260-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.021/0.000
+2025-03-19 11:52:54,296-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.023/0.000
+2025-03-19 11:52:54,296-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.023/0.000
+2025-03-19 11:52:54,366-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:54,392-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.026/0.000
+2025-03-19 11:52:54,392-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:112.00 Force:0.026/0.000
+2025-03-19 11:52:54,468-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-256.00 Force:0.022/0.000
+2025-03-19 11:52:54,497-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.026/0.000
+2025-03-19 11:52:54,497-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.026/0.000
+2025-03-19 11:52:54,566-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.022/0.000
+2025-03-19 11:52:54,589-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.023/0.000
+2025-03-19 11:52:54,589-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:80.00 Force:0.023/0.000
+2025-03-19 11:52:54,662-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-416.00 Force:0.026/0.000
+2025-03-19 11:52:54,690-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.023/0.000
+2025-03-19 11:52:54,690-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.023/0.000
+2025-03-19 11:52:54,766-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:0.021/0.000
+2025-03-19 11:52:54,790-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.025/0.000
+2025-03-19 11:52:54,790-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.025/0.000
+2025-03-19 11:52:54,859-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-256.00 Force:0.023/0.000
+2025-03-19 11:52:54,891-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.022/0.000
+2025-03-19 11:52:54,891-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-272.00 Force:0.022/0.000
+2025-03-19 11:52:54,959-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.022/0.000
+2025-03-19 11:52:54,989-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.024/0.000
+2025-03-19 11:52:54,989-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:0.00 Force:0.024/0.000
+2025-03-19 11:52:55,059-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:64.00 Force:0.020/0.000
+2025-03-19 11:52:55,089-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.021/0.000
+2025-03-19 11:52:55,089-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.021/0.000
+2025-03-19 11:52:55,165-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.022/0.000
+2025-03-19 11:52:55,189-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-144.00 Force:0.023/0.000
+2025-03-19 11:52:55,189-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-144.00 Force:0.023/0.000
+2025-03-19 11:52:55,263-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.023/0.000
+2025-03-19 11:52:55,271-INFO-Server: Started.
+2025-03-19 11:52:55,271-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 11:52:55,271-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 11:52:55,272-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 11:52:55,272-INFO-Client: Acquire DexHand control.
+2025-03-19 11:52:55,286-DEBUG-Hand: Hand is under control.
+2025-03-19 11:52:55,296-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.024/0.000
+2025-03-19 11:52:55,296-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:0.20/0.00 Speed:0.00/0.00, Current:16.00 Force:0.024/0.000
+2025-03-19 11:52:55,297-INFO-Client: Set DexHand's position zeropoint.
+2025-03-19 11:52:55,299-INFO-Hand: Finding home position...
+2025-03-19 11:52:55,300-INFO-Hand: Home position is found.
+2025-03-19 11:52:55,300-INFO-Client: Calibrate DexHand force zeropoints.
+2025-03-19 11:52:55,301-INFO-Hand: Calibrating force zeropoints...
+2025-03-19 11:52:55,362-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:0.20/0.00 Speed:0.00/0.00, Current:176.00 Force:0.023/0.000
+2025-03-19 11:52:55,389-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.025/0.000
+2025-03-19 11:52:55,389-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:0.20/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.025/0.000
+2025-03-19 11:52:55,408-INFO-Hand: Force zeropoints are calibrated.
+2025-03-19 11:52:55,409-INFO-Client: exiting program.
+2025-03-19 11:52:55,415-INFO-Client: Halt DexHand.
+2025-03-19 11:52:55,424-WARNING-Server: Got emergency task Halt.
+2025-03-19 11:52:55,424-WARNING-Server: Got emergency task Halt.
+2025-03-19 11:52:55,424-WARNING-Server: Got emergency task Halt.
+2025-03-19 11:52:55,424-INFO-Hand: Halting DexHand...
+2025-03-19 11:52:55,441-INFO-Hand: DexHand has halted.
+2025-03-19 11:52:55,446-WARNING-Client: Release DexHand.
+2025-03-19 11:52:55,449-INFO-Hand: DexHand service is available again.
+2025-03-19 11:52:55,459-DEBUG-error:False, STOP (FINEZERO,ABORTED)Pos:0.20/0.00 Speed:0.00/0.00, Current:192.00 Force:-0.003/0.000
+2025-03-19 11:52:55,489-DEBUG-error:False, STOP (FINEZERO,ABORTED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 11:52:55,489-DEBUG-error:False, STOP (FINEZERO,ABORTED)Pos:0.20/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 11:52:55,502-DEBUG-Hand: DexHand control access has been released.
+2025-03-19 12:46:43,922-INFO-Client: Start DexHand client.
+2025-03-19 12:46:43,923-INFO-Client: Try to start DexHand server.
+2025-03-19 12:46:43,928-INFO-Server: Starting server...
+2025-03-19 12:46:44,226-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 12:46:44,226-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 12:46:44,226-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 12:46:44,353-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:44,353-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:44,363-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.004/0.000
+2025-03-19 12:46:44,453-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:44,453-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:44,463-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.004/0.000
+2025-03-19 12:46:44,555-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:44,555-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:44,563-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:44,663-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.006/0.000
+2025-03-19 12:46:44,663-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.006/0.000
+2025-03-19 12:46:44,673-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.007/0.000
+2025-03-19 12:46:44,763-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.005/0.000
+2025-03-19 12:46:44,763-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.005/0.000
+2025-03-19 12:46:44,773-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.005/0.000
+2025-03-19 12:46:44,863-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 12:46:44,863-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 12:46:44,873-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.004/0.000
+2025-03-19 12:46:44,964-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.005/0.000
+2025-03-19 12:46:44,964-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.005/0.000
+2025-03-19 12:46:44,974-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.005/0.000
+2025-03-19 12:46:45,063-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:45,063-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:45,073-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:45,163-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.004/0.000
+2025-03-19 12:46:45,163-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.004/0.000
+2025-03-19 12:46:45,173-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:45,263-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:160.00 Force:-0.004/0.000
+2025-03-19 12:46:45,263-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:160.00 Force:-0.004/0.000
+2025-03-19 12:46:45,273-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:45,363-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:-0.005/0.000
+2025-03-19 12:46:45,363-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:-0.005/0.000
+2025-03-19 12:46:45,373-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:192.00 Force:-0.006/0.000
+2025-03-19 12:46:45,462-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.004/0.000
+2025-03-19 12:46:45,462-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.004/0.000
+2025-03-19 12:46:45,472-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:-0.004/0.000
+2025-03-19 12:46:45,562-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.004/0.000
+2025-03-19 12:46:45,562-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.004/0.000
+2025-03-19 12:46:45,573-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.005/0.000
+2025-03-19 12:46:45,723-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.003/0.000
+2025-03-19 12:46:45,723-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.003/0.000
+2025-03-19 12:46:45,732-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.003/0.000
+2025-03-19 12:46:45,852-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.003/0.000
+2025-03-19 12:46:45,852-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.003/0.000
+2025-03-19 12:46:45,862-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 12:46:45,952-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:45,952-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:45,962-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:288.00 Force:-0.003/0.000
+2025-03-19 12:46:46,053-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.006/0.000
+2025-03-19 12:46:46,053-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.006/0.000
+2025-03-19 12:46:46,062-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:46,153-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:46,153-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:46,162-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.007/0.000
+2025-03-19 12:46:46,252-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.007/0.000
+2025-03-19 12:46:46,252-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.007/0.000
+2025-03-19 12:46:46,262-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.006/0.000
+2025-03-19 12:46:46,352-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:46:46,352-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:46:46,362-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.001/0.000
+2025-03-19 12:46:46,452-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 12:46:46,452-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 12:46:46,462-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.003/0.000
+2025-03-19 12:46:46,552-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.006/0.000
+2025-03-19 12:46:46,552-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.006/0.000
+2025-03-19 12:46:46,562-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.005/0.000
+2025-03-19 12:46:46,652-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:46,652-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:46,662-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.005/0.000
+2025-03-19 12:46:46,753-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.007/0.000
+2025-03-19 12:46:46,753-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.007/0.000
+2025-03-19 12:46:46,762-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.007/0.000
+2025-03-19 12:46:46,852-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.003/0.000
+2025-03-19 12:46:46,853-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.003/0.000
+2025-03-19 12:46:46,862-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.004/0.000
+2025-03-19 12:46:46,952-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.007/0.000
+2025-03-19 12:46:46,953-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.007/0.000
+2025-03-19 12:46:46,962-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:47,052-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:47,052-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:47,063-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.005/0.000
+2025-03-19 12:46:47,153-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.004/0.000
+2025-03-19 12:46:47,153-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.004/0.000
+2025-03-19 12:46:47,162-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:160.00 Force:-0.004/0.000
+2025-03-19 12:46:47,253-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.004/0.000
+2025-03-19 12:46:47,253-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.004/0.000
+2025-03-19 12:46:47,262-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.005/0.000
+2025-03-19 12:46:47,352-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:47,352-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:47,362-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.005/0.000
+2025-03-19 12:46:47,453-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:47,453-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:47,462-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.006/0.000
+2025-03-19 12:46:47,552-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.008/0.000
+2025-03-19 12:46:47,552-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.008/0.000
+2025-03-19 12:46:47,562-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.007/0.000
+2025-03-19 12:46:47,652-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:47,652-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:47,662-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:47,752-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:47,752-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:47,762-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.005/0.000
+2025-03-19 12:46:47,853-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:47,853-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:47,862-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.006/0.000
+2025-03-19 12:46:47,953-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.006/0.000
+2025-03-19 12:46:47,953-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.006/0.000
+2025-03-19 12:46:47,962-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:48,053-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:48,053-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:48,062-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.005/0.000
+2025-03-19 12:46:48,153-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.005/0.000
+2025-03-19 12:46:48,153-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.005/0.000
+2025-03-19 12:46:48,163-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.006/0.000
+2025-03-19 12:46:48,251-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.005/0.000
+2025-03-19 12:46:48,251-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.005/0.000
+2025-03-19 12:46:48,262-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.005/0.000
+2025-03-19 12:46:48,393-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.005/0.000
+2025-03-19 12:46:48,393-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.005/0.000
+2025-03-19 12:46:48,407-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:48,492-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.003/0.000
+2025-03-19 12:46:48,492-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.003/0.000
+2025-03-19 12:46:48,503-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:48,592-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.006/0.000
+2025-03-19 12:46:48,592-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.006/0.000
+2025-03-19 12:46:48,609-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.006/0.000
+2025-03-19 12:46:48,692-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.006/0.000
+2025-03-19 12:46:48,692-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.006/0.000
+2025-03-19 12:46:48,701-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:48,811-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.006/0.000
+2025-03-19 12:46:48,811-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.006/0.000
+2025-03-19 12:46:48,820-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.006/0.000
+2025-03-19 12:46:48,891-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.003/0.000
+2025-03-19 12:46:48,891-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.003/0.000
+2025-03-19 12:46:48,902-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:48,992-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:48,992-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:49,002-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.003/0.000
+2025-03-19 12:46:49,092-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.003/0.000
+2025-03-19 12:46:49,092-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.003/0.000
+2025-03-19 12:46:49,102-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.002/0.000
+2025-03-19 12:46:49,192-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:49,192-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:49,202-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:49,293-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:176.00 Force:-0.006/0.000
+2025-03-19 12:46:49,293-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:176.00 Force:-0.006/0.000
+2025-03-19 12:46:49,329-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:49,412-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.007/0.000
+2025-03-19 12:46:49,412-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.007/0.000
+2025-03-19 12:46:49,424-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.008/0.000
+2025-03-19 12:46:49,512-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:49,512-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:49,521-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.006/0.000
+2025-03-19 12:46:49,611-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.003/0.000
+2025-03-19 12:46:49,611-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.003/0.000
+2025-03-19 12:46:49,622-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:49,712-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.007/0.000
+2025-03-19 12:46:49,712-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.007/0.000
+2025-03-19 12:46:49,721-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:272.00 Force:-0.006/0.000
+2025-03-19 12:46:49,814-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:49,814-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:49,822-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.003/0.000
+2025-03-19 12:46:49,911-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.004/0.000
+2025-03-19 12:46:49,911-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.004/0.000
+2025-03-19 12:46:49,921-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:224.00 Force:-0.004/0.000
+2025-03-19 12:46:50,012-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:50,012-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:50,022-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:50,111-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 12:46:50,111-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 12:46:50,122-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.003/0.000
+2025-03-19 12:46:50,212-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.007/0.000
+2025-03-19 12:46:50,212-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.007/0.000
+2025-03-19 12:46:50,233-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-192.00 Force:-0.007/0.000
+2025-03-19 12:46:50,322-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.007/0.000
+2025-03-19 12:46:50,322-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.007/0.000
+2025-03-19 12:46:50,336-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.008/0.000
+2025-03-19 12:46:50,421-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.007/0.000
+2025-03-19 12:46:50,421-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.007/0.000
+2025-03-19 12:46:50,432-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.008/0.000
+2025-03-19 12:46:50,521-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.004/0.000
+2025-03-19 12:46:50,521-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.004/0.000
+2025-03-19 12:46:50,532-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.003/0.000
+2025-03-19 12:46:50,622-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:50,622-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:50,638-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-176.00 Force:-0.007/0.000
+2025-03-19 12:46:50,722-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.007/0.000
+2025-03-19 12:46:50,722-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.007/0.000
+2025-03-19 12:46:50,732-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:50,821-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.005/0.000
+2025-03-19 12:46:50,821-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.005/0.000
+2025-03-19 12:46:50,832-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:50,921-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:50,921-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:50,937-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.006/0.000
+2025-03-19 12:46:51,022-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:224.00 Force:-0.009/0.000
+2025-03-19 12:46:51,022-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:224.00 Force:-0.009/0.000
+2025-03-19 12:46:51,037-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.009/0.000
+2025-03-19 12:46:51,121-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:51,121-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:51,131-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:256.00 Force:-0.007/0.000
+2025-03-19 12:46:51,222-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.009/0.000
+2025-03-19 12:46:51,222-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.009/0.000
+2025-03-19 12:46:51,232-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.009/0.000
+2025-03-19 12:46:51,321-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.006/0.000
+2025-03-19 12:46:51,321-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.006/0.000
+2025-03-19 12:46:51,332-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.006/0.000
+2025-03-19 12:46:51,421-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.006/0.000
+2025-03-19 12:46:51,421-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.006/0.000
+2025-03-19 12:46:51,432-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:51,522-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:51,522-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:51,539-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.007/0.000
+2025-03-19 12:46:51,623-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:51,623-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:51,632-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:224.00 Force:-0.005/0.000
+2025-03-19 12:46:51,722-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.007/0.000
+2025-03-19 12:46:51,722-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.007/0.000
+2025-03-19 12:46:51,735-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.006/0.000
+2025-03-19 12:46:51,822-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.003/0.000
+2025-03-19 12:46:51,822-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.003/0.000
+2025-03-19 12:46:51,835-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.003/0.000
+2025-03-19 12:46:51,922-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:51,922-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:51,941-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.005/0.000
+2025-03-19 12:46:52,021-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.007/0.000
+2025-03-19 12:46:52,021-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.007/0.000
+2025-03-19 12:46:52,039-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.008/0.000
+2025-03-19 12:46:52,121-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.007/0.000
+2025-03-19 12:46:52,121-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.007/0.000
+2025-03-19 12:46:52,131-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.005/0.000
+2025-03-19 12:46:52,222-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:52,222-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:52,232-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.003/0.000
+2025-03-19 12:46:52,321-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.003/0.000
+2025-03-19 12:46:52,321-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.003/0.000
+2025-03-19 12:46:52,332-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.002/0.000
+2025-03-19 12:46:52,422-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:52,422-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.004/0.000
+2025-03-19 12:46:52,432-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.005/0.000
+2025-03-19 12:46:52,521-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:52,521-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:52,532-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.006/0.000
+2025-03-19 12:46:52,621-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:52,621-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:52,631-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:52,723-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:52,723-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:52,738-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:52,822-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:52,822-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:52,831-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.006/0.000
+2025-03-19 12:46:52,922-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.002/0.000
+2025-03-19 12:46:52,922-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.002/0.000
+2025-03-19 12:46:52,945-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.007/0.000
+2025-03-19 12:46:53,031-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:53,032-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:53,041-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:46:53,131-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:53,131-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.006/0.000
+2025-03-19 12:46:53,148-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.007/0.000
+2025-03-19 12:46:53,232-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.003/0.000
+2025-03-19 12:46:53,232-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.003/0.000
+2025-03-19 12:46:53,250-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:46:53,333-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.009/0.000
+2025-03-19 12:46:53,333-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.009/0.000
+2025-03-19 12:46:53,341-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.008/0.000
+2025-03-19 12:46:53,431-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:53,431-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.005/0.000
+2025-03-19 12:46:53,443-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.006/0.000
+2025-03-19 12:46:53,532-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.006/0.000
+2025-03-19 12:46:53,532-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.006/0.000
+2025-03-19 12:46:53,542-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.006/0.000
+2025-03-19 12:46:53,631-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.011/0.000
+2025-03-19 12:46:53,631-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.011/0.000
+2025-03-19 12:46:53,642-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:272.00 Force:-0.009/0.000
+2025-03-19 12:46:53,736-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.007/0.000
+2025-03-19 12:46:53,736-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.007/0.000
+2025-03-19 12:46:53,741-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:272.00 Force:-0.007/0.000
+2025-03-19 12:46:53,833-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.008/0.000
+2025-03-19 12:46:53,833-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.008/0.000
+2025-03-19 12:46:53,846-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.007/0.000
+2025-03-19 12:46:53,932-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.004/0.000
+2025-03-19 12:46:53,932-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-208.00 Force:-0.004/0.000
+2025-03-19 12:46:53,943-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.003/0.000
+2025-03-19 12:46:54,031-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:192.00 Force:-0.007/0.000
+2025-03-19 12:46:54,031-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:192.00 Force:-0.007/0.000
+2025-03-19 12:46:54,042-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:54,132-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:54,132-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.006/0.000
+2025-03-19 12:46:54,141-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-176.00 Force:-0.007/0.000
+2025-03-19 12:46:54,232-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:54,232-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.004/0.000
+2025-03-19 12:46:54,242-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:46:54,323-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 12:46:54,323-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 12:46:54,327-INFO-Server: Started.
+2025-03-19 12:46:54,327-INFO-Client: Acquire DexHand control.
+2025-03-19 12:46:54,327-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 12:46:54,332-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:224.00 Force:-0.005/0.000
+2025-03-19 12:46:54,332-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:224.00 Force:-0.005/0.000
+2025-03-19 12:46:54,343-DEBUG-Hand: Hand is under control.
+2025-03-19 12:46:54,346-DEBUG-error:False, NORMAL (EMPTY,FINISHED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.005/0.000
+2025-03-19 12:46:54,379-INFO-Client: Set DexHand's position zeropoint.
+2025-03-19 12:46:54,381-INFO-Hand: Finding home position...
+2025-03-19 12:46:54,383-INFO-Hand: Home position is found.
+2025-03-19 12:46:54,384-INFO-Client: Calibrate DexHand force zeropoints.
+2025-03-19 12:46:54,385-INFO-Hand: Calibrating force zeropoints...
+2025-03-19 12:46:54,432-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.001/0.000
+2025-03-19 12:46:54,432-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.001/0.000
+2025-03-19 12:46:54,442-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.001/0.000
+2025-03-19 12:46:54,490-INFO-Hand: Force zeropoints are calibrated.
+2025-03-19 12:46:54,492-INFO-Client: exiting program.
+2025-03-19 12:46:54,498-INFO-Client: Halt DexHand.
+2025-03-19 12:46:54,502-WARNING-Server: Got emergency task Halt.
+2025-03-19 12:46:54,502-WARNING-Server: Got emergency task Halt.
+2025-03-19 12:46:54,502-WARNING-Server: Got emergency task Halt.
+2025-03-19 12:46:54,509-INFO-Hand: Halting DexHand...
+2025-03-19 12:46:54,513-INFO-Hand: DexHand has halted.
+2025-03-19 12:46:54,513-INFO-Hand: DexHand service is available again.
+2025-03-19 12:46:54,514-WARNING-Client: Release DexHand.
+2025-03-19 12:46:54,532-DEBUG-error:False, STOP (FINEZERO,ABORTED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.001/0.000
+2025-03-19 12:46:54,532-DEBUG-error:False, STOP (FINEZERO,ABORTED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.001/0.000
+2025-03-19 12:46:54,545-DEBUG-error:False, STOP (FINEZERO,ABORTED)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.002/0.000
+2025-03-19 12:46:54,545-DEBUG-Hand: DexHand control access has been released.
+2025-03-19 12:59:39,347-INFO-Client: Start DexHand client.
+2025-03-19 12:59:39,348-INFO-Client: Try to start DexHand server.
+2025-03-19 12:59:39,353-INFO-Server: Starting server...
+2025-03-19 12:59:39,657-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 12:59:39,657-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 12:59:39,657-INFO-Hand: DexHand has initialized successfully.
+2025-03-19 12:59:39,782-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:0.002/0.000
+2025-03-19 12:59:39,782-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:0.002/0.000
+2025-03-19 12:59:39,793-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:0.002/0.000
+2025-03-19 12:59:39,883-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.001/0.000
+2025-03-19 12:59:39,883-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.001/0.000
+2025-03-19 12:59:39,894-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-352.00 Force:-0.001/0.000
+2025-03-19 12:59:39,983-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.001/0.000
+2025-03-19 12:59:39,983-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.001/0.000
+2025-03-19 12:59:39,993-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.002/0.000
+2025-03-19 12:59:40,084-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:0.000/0.000
+2025-03-19 12:59:40,084-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:0.000/0.000
+2025-03-19 12:59:40,094-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.001/0.000
+2025-03-19 12:59:40,183-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-384.00 Force:-0.001/0.000
+2025-03-19 12:59:40,183-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-384.00 Force:-0.001/0.000
+2025-03-19 12:59:40,193-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-160.00 Force:-0.002/0.000
+2025-03-19 12:59:40,283-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.000/0.000
+2025-03-19 12:59:40,283-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.000/0.000
+2025-03-19 12:59:40,293-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.000/0.000
+2025-03-19 12:59:40,385-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.001/0.000
+2025-03-19 12:59:40,385-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.001/0.000
+2025-03-19 12:59:40,392-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.001/0.000
+2025-03-19 12:59:40,482-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.001/0.000
+2025-03-19 12:59:40,482-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.001/0.000
+2025-03-19 12:59:40,492-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.000/0.000
+2025-03-19 12:59:40,583-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-400.00 Force:-0.002/0.000
+2025-03-19 12:59:40,583-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-400.00 Force:-0.002/0.000
+2025-03-19 12:59:40,592-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-160.00 Force:-0.002/0.000
+2025-03-19 12:59:40,683-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.000/0.000
+2025-03-19 12:59:40,683-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.000/0.000
+2025-03-19 12:59:40,694-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:272.00 Force:0.001/0.000
+2025-03-19 12:59:40,782-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.000/0.000
+2025-03-19 12:59:40,782-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.000/0.000
+2025-03-19 12:59:40,794-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.001/0.000
+2025-03-19 12:59:40,926-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-160.00 Force:0.001/0.000
+2025-03-19 12:59:40,926-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-160.00 Force:0.001/0.000
+2025-03-19 12:59:40,936-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 12:59:41,022-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-320.00 Force:0.000/0.000
+2025-03-19 12:59:41,022-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-320.00 Force:0.000/0.000
+2025-03-19 12:59:41,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.001/0.000
+2025-03-19 12:59:41,122-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:41,122-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:41,132-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.000/0.000
+2025-03-19 12:59:41,222-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:176.00 Force:-0.001/0.000
+2025-03-19 12:59:41,222-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:176.00 Force:-0.001/0.000
+2025-03-19 12:59:41,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.000/0.000
+2025-03-19 12:59:41,322-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:59:41,322-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:59:41,332-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:41,422-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:59:41,422-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:59:41,432-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:0.000/0.000
+2025-03-19 12:59:41,522-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 12:59:41,522-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 12:59:41,531-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:0.001/0.000
+2025-03-19 12:59:41,622-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.001/0.000
+2025-03-19 12:59:41,622-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.001/0.000
+2025-03-19 12:59:41,632-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.002/0.000
+2025-03-19 12:59:41,722-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:0.001/0.000
+2025-03-19 12:59:41,722-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:0.001/0.000
+2025-03-19 12:59:41,732-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:0.001/0.000
+2025-03-19 12:59:41,828-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.003/0.000
+2025-03-19 12:59:41,828-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.003/0.000
+2025-03-19 12:59:41,832-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.003/0.000
+2025-03-19 12:59:41,922-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-112.00 Force:0.000/0.000
+2025-03-19 12:59:41,922-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-112.00 Force:0.000/0.000
+2025-03-19 12:59:41,932-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:112.00 Force:-0.001/0.000
+2025-03-19 12:59:42,022-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.000/0.000
+2025-03-19 12:59:42,022-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.000/0.000
+2025-03-19 12:59:42,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-400.00 Force:-0.000/0.000
+2025-03-19 12:59:42,122-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:0.000/0.000
+2025-03-19 12:59:42,122-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:0.000/0.000
+2025-03-19 12:59:42,132-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:0.001/0.000
+2025-03-19 12:59:42,222-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.003/0.000
+2025-03-19 12:59:42,222-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.003/0.000
+2025-03-19 12:59:42,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.002/0.000
+2025-03-19 12:59:42,322-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.001/0.000
+2025-03-19 12:59:42,322-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.001/0.000
+2025-03-19 12:59:42,332-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:160.00 Force:0.000/0.000
+2025-03-19 12:59:42,423-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:0.000/0.000
+2025-03-19 12:59:42,423-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:0.000/0.000
+2025-03-19 12:59:42,432-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.001/0.000
+2025-03-19 12:59:42,522-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:0.000/0.000
+2025-03-19 12:59:42,522-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:0.000/0.000
+2025-03-19 12:59:42,531-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:0.001/0.000
+2025-03-19 12:59:42,623-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.001/0.000
+2025-03-19 12:59:42,623-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.001/0.000
+2025-03-19 12:59:42,634-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.001/0.000
+2025-03-19 12:59:42,722-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 12:59:42,722-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 12:59:42,733-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:144.00 Force:-0.001/0.000
+2025-03-19 12:59:42,823-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.002/0.000
+2025-03-19 12:59:42,823-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.002/0.000
+2025-03-19 12:59:42,833-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-208.00 Force:0.000/0.000
+2025-03-19 12:59:42,923-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 12:59:42,923-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 12:59:42,932-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.001/0.000
+2025-03-19 12:59:43,022-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.001/0.000
+2025-03-19 12:59:43,022-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.001/0.000
+2025-03-19 12:59:43,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:176.00 Force:-0.001/0.000
+2025-03-19 12:59:43,122-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-240.00 Force:-0.002/0.000
+2025-03-19 12:59:43,122-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-240.00 Force:-0.002/0.000
+2025-03-19 12:59:43,132-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-336.00 Force:-0.003/0.000
+2025-03-19 12:59:43,222-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:43,222-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:43,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.002/0.000
+2025-03-19 12:59:43,323-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:256.00 Force:0.000/0.000
+2025-03-19 12:59:43,322-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:256.00 Force:0.000/0.000
+2025-03-19 12:59:43,332-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:0.000/0.000
+2025-03-19 12:59:43,422-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:176.00 Force:0.000/0.000
+2025-03-19 12:59:43,422-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:176.00 Force:0.000/0.000
+2025-03-19 12:59:43,432-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.000/0.000
+2025-03-19 12:59:43,522-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-176.00 Force:0.001/0.000
+2025-03-19 12:59:43,522-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-176.00 Force:0.001/0.000
+2025-03-19 12:59:43,532-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.001/0.000
+2025-03-19 12:59:43,622-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:0.000/0.000
+2025-03-19 12:59:43,622-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:0.000/0.000
+2025-03-19 12:59:43,632-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.001/0.000
+2025-03-19 12:59:43,783-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 12:59:43,783-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 12:59:43,791-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:144.00 Force:0.000/0.000
+2025-03-19 12:59:43,933-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.000/0.000
+2025-03-19 12:59:43,933-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.000/0.000
+2025-03-19 12:59:43,942-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.000/0.000
+2025-03-19 12:59:44,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:44,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:44,042-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.001/0.000
+2025-03-19 12:59:44,134-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.002/0.000
+2025-03-19 12:59:44,134-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.002/0.000
+2025-03-19 12:59:44,143-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:112.00 Force:-0.002/0.000
+2025-03-19 12:59:44,233-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:44,233-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:44,243-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.001/0.000
+2025-03-19 12:59:44,333-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-304.00 Force:-0.002/0.000
+2025-03-19 12:59:44,333-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-304.00 Force:-0.002/0.000
+2025-03-19 12:59:44,343-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:44,432-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.001/0.000
+2025-03-19 12:59:44,432-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.001/0.000
+2025-03-19 12:59:44,443-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:0.001/0.000
+2025-03-19 12:59:44,533-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:59:44,533-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:59:44,547-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.001/0.000
+2025-03-19 12:59:44,633-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.002/0.000
+2025-03-19 12:59:44,633-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.002/0.000
+2025-03-19 12:59:44,643-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.002/0.000
+2025-03-19 12:59:44,741-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:44,741-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:44,744-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.000/0.000
+2025-03-19 12:59:44,832-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.004/0.000
+2025-03-19 12:59:44,832-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.004/0.000
+2025-03-19 12:59:44,843-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.003/0.000
+2025-03-19 12:59:44,933-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:-0.004/0.000
+2025-03-19 12:59:44,933-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:-0.004/0.000
+2025-03-19 12:59:44,942-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.005/0.000
+2025-03-19 12:59:45,031-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:0.001/0.000
+2025-03-19 12:59:45,031-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-96.00 Force:0.001/0.000
+2025-03-19 12:59:45,045-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.000/0.000
+2025-03-19 12:59:45,131-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.002/0.000
+2025-03-19 12:59:45,131-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:0.002/0.000
+2025-03-19 12:59:45,144-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:0.001/0.000
+2025-03-19 12:59:45,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.004/0.000
+2025-03-19 12:59:45,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.004/0.000
+2025-03-19 12:59:45,243-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:59:45,333-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:45,333-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:45,350-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.002/0.000
+2025-03-19 12:59:45,431-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.001/0.000
+2025-03-19 12:59:45,431-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-272.00 Force:-0.001/0.000
+2025-03-19 12:59:45,443-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-128.00 Force:-0.002/0.000
+2025-03-19 12:59:45,532-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:0.000/0.000
+2025-03-19 12:59:45,532-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:0.000/0.000
+2025-03-19 12:59:45,542-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:0.002/0.000
+2025-03-19 12:59:45,632-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:0.000/0.000
+2025-03-19 12:59:45,632-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:0.000/0.000
+2025-03-19 12:59:45,642-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.000/0.000
+2025-03-19 12:59:45,732-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-400.00 Force:-0.001/0.000
+2025-03-19 12:59:45,732-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-400.00 Force:-0.001/0.000
+2025-03-19 12:59:45,749-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-128.00 Force:-0.001/0.000
+2025-03-19 12:59:45,833-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:0.000/0.000
+2025-03-19 12:59:45,833-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:0.000/0.000
+2025-03-19 12:59:45,842-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.001/0.000
+2025-03-19 12:59:45,931-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.002/0.000
+2025-03-19 12:59:45,931-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.002/0.000
+2025-03-19 12:59:45,941-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.002/0.000
+2025-03-19 12:59:46,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:59:46,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.001/0.000
+2025-03-19 12:59:46,042-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.003/0.000
+2025-03-19 12:59:46,133-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.001/0.000
+2025-03-19 12:59:46,133-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.001/0.000
+2025-03-19 12:59:46,143-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:0.001/0.000
+2025-03-19 12:59:46,231-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.002/0.000
+2025-03-19 12:59:46,231-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.002/0.000
+2025-03-19 12:59:46,242-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.002/0.000
+2025-03-19 12:59:46,333-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:0.002/0.000
+2025-03-19 12:59:46,333-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:0.002/0.000
+2025-03-19 12:59:46,343-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:112.00 Force:0.001/0.000
+2025-03-19 12:59:46,433-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:112.00 Force:-0.003/0.000
+2025-03-19 12:59:46,433-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:112.00 Force:-0.003/0.000
+2025-03-19 12:59:46,448-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.004/0.000
+2025-03-19 12:59:46,533-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.000/0.000
+2025-03-19 12:59:46,533-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.000/0.000
+2025-03-19 12:59:46,548-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:0.001/0.000
+2025-03-19 12:59:46,633-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.002/0.000
+2025-03-19 12:59:46,633-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.002/0.000
+2025-03-19 12:59:46,648-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:-0.002/0.000
+2025-03-19 12:59:46,733-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:0.003/0.000
+2025-03-19 12:59:46,733-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:0.003/0.000
+2025-03-19 12:59:46,742-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:176.00 Force:0.003/0.000
+2025-03-19 12:59:46,833-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.006/0.000
+2025-03-19 12:59:46,833-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.006/0.000
+2025-03-19 12:59:46,841-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:208.00 Force:-0.005/0.000
+2025-03-19 12:59:46,932-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.001/0.000
+2025-03-19 12:59:46,932-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.001/0.000
+2025-03-19 12:59:46,942-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:0.001/0.000
+2025-03-19 12:59:47,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.002/0.000
+2025-03-19 12:59:47,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.002/0.000
+2025-03-19 12:59:47,043-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.002/0.000
+2025-03-19 12:59:47,132-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.000/0.000
+2025-03-19 12:59:47,132-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:0.000/0.000
+2025-03-19 12:59:47,141-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:0.000/0.000
+2025-03-19 12:59:47,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.003/0.000
+2025-03-19 12:59:47,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.003/0.000
+2025-03-19 12:59:47,249-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.001/0.000
+2025-03-19 12:59:47,332-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:0.002/0.000
+2025-03-19 12:59:47,332-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:0.002/0.000
+2025-03-19 12:59:47,355-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:0.002/0.000
+2025-03-19 12:59:47,431-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:47,431-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:47,443-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:176.00 Force:-0.001/0.000
+2025-03-19 12:59:47,531-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:47,531-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:47,543-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.001/0.000
+2025-03-19 12:59:47,635-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 12:59:47,635-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 12:59:47,642-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.002/0.000
+2025-03-19 12:59:47,732-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-128.00 Force:-0.001/0.000
+2025-03-19 12:59:47,732-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-128.00 Force:-0.001/0.000
+2025-03-19 12:59:47,742-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:96.00 Force:-0.001/0.000
+2025-03-19 12:59:47,833-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.002/0.000
+2025-03-19 12:59:47,833-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:128.00 Force:-0.002/0.000
+2025-03-19 12:59:47,842-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:144.00 Force:-0.001/0.000
+2025-03-19 12:59:47,932-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-352.00 Force:-0.003/0.000
+2025-03-19 12:59:47,932-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-352.00 Force:-0.003/0.000
+2025-03-19 12:59:47,943-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-144.00 Force:-0.002/0.000
+2025-03-19 12:59:48,033-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-128.00 Force:-0.003/0.000
+2025-03-19 12:59:48,033-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-128.00 Force:-0.003/0.000
+2025-03-19 12:59:48,043-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.004/0.000
+2025-03-19 12:59:48,132-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.001/0.000
+2025-03-19 12:59:48,132-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:-0.001/0.000
+2025-03-19 12:59:48,148-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.000/0.000
+2025-03-19 12:59:48,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-112.00 Force:-0.001/0.000
+2025-03-19 12:59:48,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-112.00 Force:-0.001/0.000
+2025-03-19 12:59:48,249-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-112.00 Force:-0.001/0.000
+2025-03-19 12:59:48,337-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.002/0.000
+2025-03-19 12:59:48,337-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.002/0.000
+2025-03-19 12:59:48,342-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-80.00 Force:-0.002/0.000
+2025-03-19 12:59:48,433-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:144.00 Force:0.001/0.000
+2025-03-19 12:59:48,433-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:144.00 Force:0.001/0.000
+2025-03-19 12:59:48,449-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:0.001/0.000
+2025-03-19 12:59:48,533-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.004/0.000
+2025-03-19 12:59:48,533-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.004/0.000
+2025-03-19 12:59:48,546-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:240.00 Force:-0.004/0.000
+2025-03-19 12:59:48,633-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:160.00 Force:-0.001/0.000
+2025-03-19 12:59:48,633-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:160.00 Force:-0.001/0.000
+2025-03-19 12:59:48,652-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:144.00 Force:-0.001/0.000
+2025-03-19 12:59:48,739-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.001/0.000
+2025-03-19 12:59:48,739-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-32.00 Force:-0.001/0.000
+2025-03-19 12:59:48,752-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-16.00 Force:-0.002/0.000
+2025-03-19 12:59:48,833-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 12:59:48,833-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.004/0.000
+2025-03-19 12:59:48,842-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:112.00 Force:-0.004/0.000
+2025-03-19 12:59:48,933-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.002/0.000
+2025-03-19 12:59:48,933-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.002/0.000
+2025-03-19 12:59:48,950-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:0.002/0.000
+2025-03-19 12:59:49,032-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:49,033-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:49,048-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:0.00 Force:-0.001/0.000
+2025-03-19 12:59:49,132-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-352.00 Force:-0.005/0.000
+2025-03-19 12:59:49,132-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-352.00 Force:-0.005/0.000
+2025-03-19 12:59:49,143-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:192.00 Force:-0.004/0.000
+2025-03-19 12:59:49,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:49,232-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-48.00 Force:-0.001/0.000
+2025-03-19 12:59:49,243-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:0.000/0.000
+2025-03-19 12:59:49,332-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.004/0.000
+2025-03-19 12:59:49,332-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.004/0.000
+2025-03-19 12:59:49,342-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:32.00 Force:-0.002/0.000
+2025-03-19 12:59:49,436-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.003/0.000
+2025-03-19 12:59:49,436-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.003/0.000
+2025-03-19 12:59:49,456-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-192.00 Force:-0.004/0.000
+2025-03-19 12:59:49,532-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.001/0.000
+2025-03-19 12:59:49,532-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:16.00 Force:-0.001/0.000
+2025-03-19 12:59:49,543-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:48.00 Force:-0.002/0.000
+2025-03-19 12:59:49,632-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.001/0.000
+2025-03-19 12:59:49,632-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.001/0.000
+2025-03-19 12:59:49,656-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:0.001/0.000
+2025-03-19 12:59:49,732-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.000/0.000
+2025-03-19 12:59:49,732-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:64.00 Force:-0.000/0.000
+2025-03-19 12:59:49,740-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 12:59:49,740-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 12:59:49,740-INFO-Tac3D: Tac3D has initialized successfully
+2025-03-19 12:59:49,740-INFO-Server: Started.
+2025-03-19 12:59:49,741-INFO-Client: Acquire DexHand control.
+2025-03-19 12:59:49,749-DEBUG-error:False, CONTACT (EMPTY,RUNNING)Pos:-0.58/0.00 Speed:0.00/0.00, Current:80.00 Force:0.000/0.000
+2025-03-19 12:59:49,780-DEBUG-Hand: Hand is under control.
+2025-03-19 12:59:49,796-INFO-Client: Set DexHand's position zeropoint.
+2025-03-19 12:59:49,803-INFO-Hand: Finding home position...
+2025-03-19 12:59:49,833-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-0.67/0.00 Speed:-3.60/-4.00, Current:-384.00 Force:-0.010/0.000
+2025-03-19 12:59:49,833-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-0.67/0.00 Speed:-3.60/-4.00, Current:-384.00 Force:-0.010/0.000
+2025-03-19 12:59:49,842-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-0.71/0.00 Speed:-3.85/-4.00, Current:-288.00 Force:-0.008/0.000
+2025-03-19 12:59:49,936-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-1.06/0.00 Speed:-3.91/-4.00, Current:-384.00 Force:-0.001/0.000
+2025-03-19 12:59:49,936-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-1.06/0.00 Speed:-3.91/-4.00, Current:-384.00 Force:-0.001/0.000
+2025-03-19 12:59:49,945-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-1.09/0.00 Speed:-3.94/-4.00, Current:-432.00 Force:-0.002/0.000
+2025-03-19 12:59:50,032-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-1.45/0.00 Speed:-4.06/-4.00, Current:-336.00 Force:-0.003/0.000
+2025-03-19 12:59:50,032-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-1.45/0.00 Speed:-4.06/-4.00, Current:-336.00 Force:-0.003/0.000
+2025-03-19 12:59:50,045-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-1.49/0.00 Speed:-4.05/-4.00, Current:-384.00 Force:-0.003/0.000
+2025-03-19 12:59:50,133-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-1.85/0.00 Speed:-3.85/-4.00, Current:-208.00 Force:-0.002/0.000
+2025-03-19 12:59:50,133-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-1.85/0.00 Speed:-3.85/-4.00, Current:-208.00 Force:-0.002/0.000
+2025-03-19 12:59:50,142-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-1.90/0.00 Speed:-4.23/-4.00, Current:-16.00 Force:-0.002/0.000
+2025-03-19 12:59:50,233-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-2.26/0.00 Speed:-3.91/-4.00, Current:-832.00 Force:-0.002/0.000
+2025-03-19 12:59:50,233-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-2.26/0.00 Speed:-3.91/-4.00, Current:-832.00 Force:-0.002/0.000
+2025-03-19 12:59:50,246-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-2.30/0.00 Speed:-3.97/-4.00, Current:-752.00 Force:-0.003/0.000
+2025-03-19 12:59:50,335-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-2.66/0.00 Speed:-4.26/-4.00, Current:-32.00 Force:-0.002/0.000
+2025-03-19 12:59:50,335-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-2.66/0.00 Speed:-4.26/-4.00, Current:-32.00 Force:-0.002/0.000
+2025-03-19 12:59:50,343-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-2.70/0.00 Speed:-3.85/-4.00, Current:-160.00 Force:0.000/0.000
+2025-03-19 12:59:50,432-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-3.06/0.00 Speed:-4.19/-4.00, Current:-256.00 Force:-0.000/0.000
+2025-03-19 12:59:50,432-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-3.06/0.00 Speed:-4.19/-4.00, Current:-256.00 Force:-0.000/0.000
+2025-03-19 12:59:50,443-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-3.10/0.00 Speed:-3.77/-4.00, Current:-560.00 Force:-0.000/0.000
+2025-03-19 12:59:50,538-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-3.46/0.00 Speed:-3.60/-4.00, Current:-432.00 Force:-0.005/0.000
+2025-03-19 12:59:50,538-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-3.46/0.00 Speed:-3.60/-4.00, Current:-432.00 Force:-0.005/0.000
+2025-03-19 12:59:50,542-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-3.50/0.00 Speed:-4.19/-4.00, Current:-336.00 Force:-0.004/0.000
+2025-03-19 12:59:50,633-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-3.85/0.00 Speed:-4.06/-4.00, Current:-400.00 Force:-0.005/0.000
+2025-03-19 12:59:50,633-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-3.85/0.00 Speed:-4.06/-4.00, Current:-400.00 Force:-0.005/0.000
+2025-03-19 12:59:50,645-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-3.89/0.00 Speed:-4.06/-4.00, Current:-416.00 Force:-0.004/0.000
+2025-03-19 12:59:50,732-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-4.26/0.00 Speed:-4.06/-4.00, Current:-336.00 Force:-0.003/0.000
+2025-03-19 12:59:50,732-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-4.26/0.00 Speed:-4.06/-4.00, Current:-336.00 Force:-0.003/0.000
+2025-03-19 12:59:50,759-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-4.30/0.00 Speed:-3.84/-4.00, Current:-448.00 Force:-0.004/0.000
+2025-03-19 12:59:50,832-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-4.66/0.00 Speed:-3.77/-4.00, Current:-448.00 Force:0.001/0.000
+2025-03-19 12:59:50,832-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-4.66/0.00 Speed:-3.77/-4.00, Current:-448.00 Force:0.001/0.000
+2025-03-19 12:59:50,851-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-4.70/0.00 Speed:-4.13/-4.00, Current:-352.00 Force:-0.001/0.000
+2025-03-19 12:59:50,935-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-5.06/0.00 Speed:-4.15/-4.00, Current:-288.00 Force:-0.003/0.000
+2025-03-19 12:59:50,935-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-5.06/0.00 Speed:-4.15/-4.00, Current:-288.00 Force:-0.003/0.000
+2025-03-19 12:59:50,943-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-5.10/0.00 Speed:-3.94/-4.00, Current:-208.00 Force:-0.001/0.000
+2025-03-19 12:59:51,034-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-5.46/0.00 Speed:-4.01/-4.00, Current:-112.00 Force:-0.003/0.000
+2025-03-19 12:59:51,034-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-5.46/0.00 Speed:-4.01/-4.00, Current:-112.00 Force:-0.003/0.000
+2025-03-19 12:59:51,043-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-5.50/0.00 Speed:-3.92/-4.00, Current:-192.00 Force:-0.002/0.000
+2025-03-19 12:59:51,132-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-5.86/0.00 Speed:-4.23/-4.00, Current:-112.00 Force:-0.003/0.000
+2025-03-19 12:59:51,132-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-5.86/0.00 Speed:-4.23/-4.00, Current:-112.00 Force:-0.003/0.000
+2025-03-19 12:59:51,149-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-5.90/0.00 Speed:-3.87/-4.00, Current:-80.00 Force:-0.002/0.000
+2025-03-19 12:59:51,233-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-6.26/0.00 Speed:-3.87/-4.00, Current:-272.00 Force:-0.000/0.000
+2025-03-19 12:59:51,233-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-6.26/0.00 Speed:-3.87/-4.00, Current:-272.00 Force:-0.000/0.000
+2025-03-19 12:59:51,242-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-6.30/0.00 Speed:-4.06/-4.00, Current:-176.00 Force:-0.001/0.000
+2025-03-19 12:59:51,332-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-6.66/0.00 Speed:-3.63/-4.00, Current:-272.00 Force:-0.005/0.000
+2025-03-19 12:59:51,332-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-6.66/0.00 Speed:-3.63/-4.00, Current:-272.00 Force:-0.005/0.000
+2025-03-19 12:59:51,349-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-6.70/0.00 Speed:-4.22/-4.00, Current:-320.00 Force:-0.005/0.000
+2025-03-19 12:59:51,432-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-7.07/0.00 Speed:-4.19/-4.00, Current:-256.00 Force:-0.005/0.000
+2025-03-19 12:59:51,432-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-7.07/0.00 Speed:-4.19/-4.00, Current:-256.00 Force:-0.005/0.000
+2025-03-19 12:59:51,446-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-7.11/0.00 Speed:-3.87/-4.00, Current:-464.00 Force:-0.004/0.000
+2025-03-19 12:59:51,532-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-7.47/0.00 Speed:-4.19/-4.00, Current:-320.00 Force:-0.004/0.000
+2025-03-19 12:59:51,532-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-7.47/0.00 Speed:-4.19/-4.00, Current:-320.00 Force:-0.004/0.000
+2025-03-19 12:59:51,548-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-7.50/0.00 Speed:-3.90/-4.00, Current:-352.00 Force:-0.003/0.000
+2025-03-19 12:59:51,633-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-7.86/0.00 Speed:-3.95/-4.00, Current:-416.00 Force:0.001/0.000
+2025-03-19 12:59:51,633-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-7.86/0.00 Speed:-3.95/-4.00, Current:-416.00 Force:0.001/0.000
+2025-03-19 12:59:51,649-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-7.91/0.00 Speed:-4.16/-4.00, Current:-320.00 Force:0.000/0.000
+2025-03-19 12:59:51,732-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-8.26/0.00 Speed:-3.90/-4.00, Current:-352.00 Force:-0.004/0.000
+2025-03-19 12:59:51,732-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-8.26/0.00 Speed:-3.90/-4.00, Current:-352.00 Force:-0.004/0.000
+2025-03-19 12:59:51,746-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-8.30/0.00 Speed:-4.08/-4.00, Current:-560.00 Force:-0.003/0.000
+2025-03-19 12:59:51,833-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-8.66/0.00 Speed:-3.99/-4.00, Current:-240.00 Force:-0.001/0.000
+2025-03-19 12:59:51,833-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-8.66/0.00 Speed:-3.99/-4.00, Current:-240.00 Force:-0.001/0.000
+2025-03-19 12:59:51,847-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-8.70/0.00 Speed:-3.81/-4.00, Current:-336.00 Force:-0.001/0.000
+2025-03-19 12:59:51,933-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-9.06/0.00 Speed:-4.04/-4.00, Current:-416.00 Force:0.000/0.000
+2025-03-19 12:59:51,933-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-9.06/0.00 Speed:-4.04/-4.00, Current:-416.00 Force:0.000/0.000
+2025-03-19 12:59:51,944-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-9.10/0.00 Speed:-3.91/-4.00, Current:-400.00 Force:-0.000/0.000
+2025-03-19 12:59:52,033-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-9.47/0.00 Speed:-3.71/-4.00, Current:-336.00 Force:-0.002/0.000
+2025-03-19 12:59:52,033-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-9.47/0.00 Speed:-3.71/-4.00, Current:-336.00 Force:-0.002/0.000
+2025-03-19 12:59:52,042-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-9.51/0.00 Speed:-4.08/-4.00, Current:-320.00 Force:-0.004/0.000
+2025-03-19 12:59:52,133-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-9.86/0.00 Speed:-3.92/-4.00, Current:-256.00 Force:-0.002/0.000
+2025-03-19 12:59:52,133-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-9.86/0.00 Speed:-3.92/-4.00, Current:-256.00 Force:-0.002/0.000
+2025-03-19 12:59:52,143-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-9.91/0.00 Speed:-4.02/-4.00, Current:-720.00 Force:-0.003/0.000
+2025-03-19 12:59:52,234-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-10.16/0.00 Speed:-2.21/-4.00, Current:-2880.00 Force:-0.002/0.000
+2025-03-19 12:59:52,234-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-10.16/0.00 Speed:-2.21/-4.00, Current:-2880.00 Force:-0.002/0.000
+2025-03-19 12:59:52,245-DEBUG-error:False, SETHOME (SETZERO,RUNNING)Pos:-10.19/0.00 Speed:-2.15/-4.00, Current:-3312.00 Force:0.001/0.000
+2025-03-19 12:59:52,261-INFO-Hand: Home position is found.
+2025-03-19 12:59:52,261-INFO-Client: Calibrate DexHand force zeropoints.
+2025-03-19 12:59:52,273-INFO-Hand: Calibrating force zeropoints...
+2025-03-19 12:59:52,332-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.014/0.000
+2025-03-19 12:59:52,332-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-64.00 Force:-0.014/0.000
+2025-03-19 12:59:52,350-DEBUG-error:False, FORCECALI (FINEZERO,RUNNING)Pos:0.06/0.00 Speed:0.00/0.00, Current:-96.00 Force:-0.011/0.000
+2025-03-19 12:59:52,379-INFO-Hand: Force zeropoints are calibrated.
+2025-03-19 12:59:52,393-INFO-Client: exiting program.
+2025-03-19 12:59:52,403-INFO-Client: Halt DexHand.
+2025-03-19 12:59:52,407-WARNING-Server: Got emergency task Halt.
+2025-03-19 12:59:52,407-WARNING-Server: Got emergency task Halt.
+2025-03-19 12:59:52,407-WARNING-Server: Got emergency task Halt.
+2025-03-19 12:59:52,407-INFO-Hand: Halting DexHand...
+2025-03-19 12:59:52,427-INFO-Hand: DexHand has halted.
+2025-03-19 12:59:52,427-WARNING-Client: Release DexHand.
+2025-03-19 12:59:52,427-INFO-Hand: DexHand service is available again.
+2025-03-19 12:59:52,432-DEBUG-error:False, STOP (FINEZERO,ABORTED)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:0.005/0.000
+2025-03-19 12:59:52,432-DEBUG-error:False, STOP (FINEZERO,ABORTED)Pos:0.06/0.00 Speed:0.00/0.00, Current:64.00 Force:0.005/0.000
+2025-03-19 12:59:52,442-DEBUG-error:False, STOP (FINEZERO,ABORTED)Pos:0.06/0.00 Speed:0.00/0.00, Current:304.00 Force:0.005/0.000
+2025-03-19 12:59:52,461-DEBUG-Hand: DexHand control access has been released.
