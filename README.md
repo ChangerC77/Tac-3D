@@ -96,7 +96,7 @@ client.force_servo(goal_force=6.0) # 确认服务端收到后即刻返回
 <img src='img/2.png'>
 
 ### 5. dexhand 与 tac 3D 联合使用
-<font color='red'>ATTENTION</font>: 这里使用前要先修改代码里视触觉传感器的型号，这里要把`Tac3D_name1`和`Tac3D_name2`改为自己的设备型号，本设备测试型号具体见下文`Tac 3D 1.hardware`部分
+`ATTENTION`: 这里使用前要先修改代码里视触觉传感器的型号，这里要把`Tac3D_name1`和`Tac3D_name2`改为自己的设备型号，本设备测试型号具体见下文`Tac 3D 1.hardware`部分
 ```
 # 创建传感器数据存储实例
 Tac3D_name1 = "HDL1-0003"# 注意，'HDL1-0001'仅是举例，用户使用时请改成DexHand机械手上实际的Tac3D传感器编号
@@ -140,7 +140,7 @@ python ~/Tac\ 3D/Tac3D-SDK-v3.2.1/Tac3D-API/python/PyTac3D/main-example.py
 ```
 ### 2. GUI
 #### configuration setup
-<font color='red'>ATTENTION</font>: 使用前要将视触觉传感器型号改为我们使用的型号
+`ATTENTION`: 使用前要将视触觉传感器型号改为我们使用的型号
 ```
 self.Tac3D_name1 = "HDL1-0003"# 注意，'HDL1-0001'仅是举例，用户使用时请改成DexHand机械手上实际的Tac3D传感器编号
 self.Tac3D_name2 = "HDL1-0004"# 注意，'HDL1-0002'仅是举例，用户使用时请改成DexHand机械手上实际的Tac3D传感器编号
@@ -152,7 +152,7 @@ python ~/Tac\ 3D/Tac3D-SDK-v3.2.1/Tac3D-API/python/PyTac3D/PyTac3D_Displayer.py
 
 ### 3. 同时显示2个传感器的GUI界面
 #### configuration setup
-<font color='red'>ATTENTION</font>: 使用前要将视触觉传感器型号改为我们使用的型号
+`ATTENTION`: 使用前要将视触觉传感器型号改为我们使用的型号
 ```
 self.Tac3D_name1 = "HDL1-0003"
 self.Tac3D_name2 = "HDL1-0004"
