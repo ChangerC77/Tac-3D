@@ -1,6 +1,25 @@
 # Dexhand 2 Pro (Python)
 ## Documents
 see more details in `1 DexHand2 Pro 机械手产品规格书-v1.0.pdf` and `2 DexHand2 Pro SDK二次开发手册-v1.1.pdf`
+
+## network connection
+<img src="img/3.png">
+
+机械手的 IP 地址: `192.168.2.100`，port: `60031`，子网掩码: `255.255.255.0`，
+
+PC IP 设置：`192.168.2.x`网段, eg: `192.168.2.10`
+
+点击`设置/网络`，在有线里点击
+
+<img src="img/4.png">
+
+在`IPv4`里手动设置ip地址和名称
+
+<img src="img/5.png">
+<img src="img/6.png">
+
+设置完成后点击`应用`
+
 ## 1. conda setting
 ```
 conda create -n dexhand python=3.8
@@ -77,9 +96,16 @@ client.force_servo(goal_force=6.0) # 确认服务端收到后即刻返回
 <img src='img/2.png'>
 
 ### 5. dexhand 与 tac 3D 联合使用
+<font color='red'>ATTENTION</font>: 这里使用前要先修改代码里视触觉传感器的型号，这里要把`Tac3D_name1`和`Tac3D_name2`改为自己的设备型号，本设备测试型号具体见下文`Tac 3D 1.hardware`部分
+```
+# 创建传感器数据存储实例
+Tac3D_name1 = "HDL1-0003"# 注意，'HDL1-0001'仅是举例，用户使用时请改成DexHand机械手上实际的Tac3D传感器编号
+Tac3D_name2 = "HDL1-0004"# 注意，'HDL1-0002'仅是举例，用户使用时请改成DexHand机械手上实际的Tac3D传感器编号
+```
 ```
 python ~/Tac\ 3D/DexHand-SDK-v1.1/pyDexHandClient/examples/handandtac3d.py
 ```
+
 ### 6. clear the error
 ```
 python ~/Tac\ 3D/DexHand-SDK-v1.1/pyDexHandClient/control safe.py
@@ -89,13 +115,13 @@ python ~/Tac\ 3D/DexHand-SDK-v1.1/pyDexHandClient/control safe.py
 see more details in `3 Tac3D AD2 触觉传感器产品规格书-v1.3.2.pdf`, `4 Tac3D AD2 SDK二次开发手册-v1.3.2.pdf` and `5 Tac3D Desktop 2024b 操作手册-v1.3.1.pdf`
 
 ## 1. Hardware
-<img src='img/3.jpeg'>
-<img src='img/4.jpeg'>
+<img src='img/3.jpeg' width="70%">
+<img src='img/4.jpeg' width="70%">
 
 ## 2. Environment Setting
 ### 1.  install dependence
 ```
-pip install numpy ruamel.yaml vedo==2023.4.6 vtk==9.1.0
+pip install numpy ruamel.yaml vedo==2023.4.6 vtk==9.1.0  # 视触觉传感器要用的库
 ```
 ### 2.2 check the version
 ```
@@ -110,11 +136,41 @@ vtk                           9.4.1
 ## 3. Usage
 ### 1. example
 ```
-python Tac\ 3D/Tac3D-SDK-v3.2.1/Tac3D-API/python/PyTac3D/main-example.py
+python ~/Tac\ 3D/Tac3D-SDK-v3.2.1/Tac3D-API/python/PyTac3D/main-example.py
 ```
 ### 2. GUI
+#### configuration setup
+<font color='red'>ATTENTION</font>: 使用前要将视触觉传感器型号改为我们使用的型号
 ```
-python Tac\ 3D/Tac3D-SDK-v3.2.1/Tac3D-API/python/PyTac3D/PyTac3D_Displayer.py
+self.Tac3D_name1 = "HDL1-0003"# 注意，'HDL1-0001'仅是举例，用户使用时请改成DexHand机械手上实际的Tac3D传感器编号
+self.Tac3D_name2 = "HDL1-0004"# 注意，'HDL1-0002'仅是举例，用户使用时请改成DexHand机械手上实际的Tac3D传感器编号
+```
+#### 启动
+```
+python ~/Tac\ 3D/Tac3D-SDK-v3.2.1/Tac3D-API/python/PyTac3D/PyTac3D_Displayer.py
+```
+
+### 3. 同时显示2个传感器的GUI界面
+#### configuration setup
+<font color='red'>ATTENTION</font>: 使用前要将视触觉传感器型号改为我们使用的型号
+```
+self.Tac3D_name1 = "HDL1-0003"
+self.Tac3D_name2 = "HDL1-0004"
+
+if SN=="HDL1-0003":
+    self.frameCacheLeft[recvTimestamp] = frame
+
+# 处理左手数据 (窗口 0, 2)
+if L_left is not None:
+    meshSize = mesh_table[getModelName("HDL1-0003")]
+
+# 处理右手数据 (窗口 1, 3)
+if L_right is not None:
+    meshSize = mesh_table[getModelName("HDL1-0004")]
+```
+#### 启动
+```
+python ~/Tac\ 3D/Tac3D-SDK-v3.2.1/Tac3D-API/python/PyTac3D/PyTac3D_2_GUI.py
 ```
 
 # bug
@@ -131,4 +187,4 @@ Traceback (most recent call last):
  self.center = []
  AttributeError: attribute 'center' of 'vtkmodules.vtkRenderingCore.vtkProp3D' objects is not writable
  ```
- solution see in `1. install dependence`
+ solution see in `Tac 3D 1. install dependence`
